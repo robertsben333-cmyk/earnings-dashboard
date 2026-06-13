@@ -1,0 +1,48 @@
+{
+  "report_date": "2026-06-13",
+  "built_at_utc": "2026-06-13T18:28:59+00:00",
+  "window": {
+    "before_open_session": "2026-06-15",
+    "after_close_session": null
+  },
+  "invest": [
+    {
+      "ticker": "AIOT",
+      "company": "Powerfleet, Inc.",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 38.0,
+      "rev_use": 38.0,
+      "mom_aligned": 13.867,
+      "old_weight": 0.5,
+      "mom_weight": 0.4193,
+      "no_data": false
+    }
+  ],
+  "screened": [
+    {
+      "ticker": "CGC",
+      "company": "Canopy Growth Corporation",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "CMTL",
+      "company": "Comtech Telecommunications Corp.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "CODA",
+      "company": "Coda Octopus Group, Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "JRSH",
+      "company": "Jerash Holdings (US), Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    }
+  ]
+}

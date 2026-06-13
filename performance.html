@@ -1,0 +1,38 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Track record</title><script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script><script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3"></script><style>
+:root{--bg:#0d1117;--panel:#161b22;--border:#30363d;--text:#e6edf3;--muted:#8b949e;
+--green:#3fb950;--red:#f85149;--purple:#bc8cff;--blue:#58a6ff;--amber:#f0883e;}
+*{box-sizing:border-box;}body{margin:0;background:var(--bg);color:var(--text);
+font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;padding:24px 20px 48px;}
+.wrap{max-width:1120px;margin:0 auto;}h1{font-size:1.4rem;margin:0 0 4px;}
+.sub{color:var(--muted);font-size:.85rem;margin:0 0 18px;}
+nav{display:flex;gap:8px;margin:0 0 20px;flex-wrap:wrap;}
+nav a{color:var(--muted);text-decoration:none;border:1px solid var(--border);
+border-radius:999px;padding:5px 14px;font-size:.8rem;}
+nav a.active{color:var(--text);border-color:var(--purple);background:#1b1430;}
+.metrics{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:0 0 18px;}
+.metric{border:1px solid var(--border);background:var(--panel);border-radius:8px;padding:13px 14px;}
+.metric.head{border-color:var(--purple);background:#1b1430;}
+.label{color:var(--muted);font-size:.72rem;text-transform:uppercase;letter-spacing:.05em;}
+.value{font-size:1.25rem;font-weight:650;margin-top:4px;}.s{color:var(--muted);font-size:.72rem;margin-top:3px;}
+.pos{color:var(--green);}.neg{color:var(--red);}.amber{color:var(--amber);}
+.panel{border:1px solid var(--border);background:var(--panel);border-radius:8px;padding:18px;margin-top:16px;}
+.panel h2{margin:0 0 4px;font-size:1rem;}.note{color:var(--muted);font-size:.78rem;margin:0 0 12px;}
+table{width:100%;border-collapse:collapse;font-size:.84rem;}
+th,td{border-bottom:1px solid var(--border);padding:9px 10px;text-align:right;white-space:nowrap;}
+th:first-child,td:first-child,th.l,td.l{text-align:left;}
+th{color:var(--muted);font-size:.7rem;text-transform:uppercase;background:#0f141b;}
+.tag{display:inline-block;border-radius:5px;padding:1px 7px;font-size:.72rem;font-weight:600;}
+.tag.long{background:#10301c;color:var(--green);}.tag.short{background:#3a1414;color:var(--red);}
+.tag.amc{background:#13243b;color:var(--blue);}.tag.bmo{background:#2b1d36;color:var(--purple);}
+.tag.warn{background:#2b1d10;color:var(--amber);}
+.big{font-size:2rem;font-weight:700;}.empty{color:var(--muted);padding:30px 0;text-align:center;}
+.card{border:1px solid var(--border);background:#0f141b;border-radius:8px;padding:14px 16px;margin-top:12px;}
+.card h3{margin:0 0 6px;font-size:1rem;}.kv{color:var(--muted);font-size:.8rem;margin:3px 0;}
+.card .thesis{font-size:.9rem;margin:8px 0;}a.src{color:var(--blue);font-size:.78rem;display:block;}
+.chart-box{max-width:860px;margin:0 auto;}.chart-box canvas{width:100%;height:320px;}
+.disclaimer{color:var(--muted);font-size:.72rem;margin-top:24px;border-top:1px solid var(--border);padding-top:12px;}
+</style></head><body><div class="wrap">
+<nav><a href="index.html" class="">Today</a><a href="performance.html" class="active">Track record</a><a href="details.html" class="">Detail</a></nav><h1>Track record</h1><p class='sub'>Realized, side-adjusted returns of past picks (entry reference price &rarr; next open after the report). Two equity curves: momentum-weighted vs old-weighted.</p><section class='metrics'><div class='metric head'><div class='label'>Momentum strategy</div><div class='value pos'>+0.0%</div><div class='s'>EUR 10,000 · 0 trades · hit 0% · DD 0%</div></div><div class='metric '><div class='label'>Old strategy</div><div class='value pos'>+0.0%</div><div class='s'>EUR 10,000 · 0 trades · hit 0% · DD 0%</div></div><div class='metric'><div class='label'>Settled / pending</div><div class='value'>0 / 1</div><div class='s'>EUR 10,000 start, sequential compounding</div></div><div class='metric'><div class='label'>Avg trade</div><div class='value'>+0.00%</div><div class='s'>per settled pick (unweighted)</div></div></section><div class='panel'><h2>Equity curves (real, EUR 10k start)</h2><p class='note'>Purple = momentum strategy · gray dashed = old strategy.</p><div class='chart-box'><canvas id='eq'></canvas></div></div><div class='panel'><h2>Settled trades</h2><div class='empty'>No settled trades yet.</div></div><div class='panel'><h2>Pending (awaiting earnings reaction)</h2><p class='note'>AIOT (2026-06-13)</p></div><script>const cMom=[],cOld=[];Chart.defaults.color='#8b949e';Chart.defaults.borderColor='#30363d';new Chart(document.getElementById('eq'),{type:'line',data:{datasets:[{label:'Momentum',data:cMom,parsing:false,borderColor:'#bc8cff',backgroundColor:'rgba(188,140,255,.13)',borderWidth:2.2,pointRadius:0,fill:true,tension:.15},{label:'Old',data:cOld,parsing:false,borderColor:'#8b949e',borderDash:[5,4],borderWidth:1.4,pointRadius:0,fill:false,tension:.15}]},options:{responsive:true,maintainAspectRatio:false,parsing:false,scales:{x:{type:'time',time:{unit:'day'}},y:{ticks:{callback:v=>'EUR '+Number(v).toLocaleString()}}}}});</script>
+<p class="disclaimer">Research, not financial advice. Earnings reactions are highly uncertain. Weights are model outputs over a single, in-sample-derived strategy.</p></div></body></html>
