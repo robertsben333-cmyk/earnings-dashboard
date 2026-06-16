@@ -1,53 +1,29 @@
 {
-  "report_date": "2026-06-15",
-  "built_at_utc": "2026-06-16T12:34:00+00:00",
+  "report_date": "2026-06-16",
+  "built_at_utc": "2026-06-16T19:12:40+00:00",
   "window": {
-    "before_open_session": "2026-06-16",
-    "after_close_session": "2026-06-15"
+    "before_open_session": null,
+    "after_close_session": null
   },
   "invest": [],
   "screened": [
     {
-      "ticker": "DOMO",
-      "company": "Domo, Inc.",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "HITI",
-      "company": "High Tide Inc.",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "PLAY",
-      "company": "Dave & Buster's Entertainment, Inc.",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "QMCO",
-      "company": "Quantum Corporation",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "UXIN",
-      "company": "Uxin Limited",
+      "ticker": "JBL",
+      "company": "Jabil Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "VNCE",
-      "company": "Vince Holding Corp.",
+      "ticker": "KMX",
+      "company": "CarMax, Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "WLY",
-      "company": "John Wiley & Sons, Inc.",
-      "session": "BMO",
-      "reason": "barrier"
+      "ticker": "LZB",
+      "company": "La-Z-Boy Incorporated",
+      "session": "AMC",
+      "reason": "below_threshold"
     }
   ]
 }
