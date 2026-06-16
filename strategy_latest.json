@@ -1,9 +1,9 @@
 {
   "report_date": "2026-06-16",
-  "built_at_utc": "2026-06-16T19:12:40+00:00",
+  "built_at_utc": "2026-06-16T19:35:15+00:00",
   "window": {
-    "before_open_session": null,
-    "after_close_session": null
+    "before_open_session": "2026-06-17",
+    "after_close_session": "2026-06-16"
   },
   "invest": [],
   "screened": [
