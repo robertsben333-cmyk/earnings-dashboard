@@ -1,48 +1,53 @@
 {
-  "report_date": "2026-06-13",
-  "built_at_utc": "2026-06-14T21:50:58+00:00",
+  "report_date": "2026-06-15",
+  "built_at_utc": "2026-06-16T12:34:00+00:00",
   "window": {
-    "before_open_session": "2026-06-15",
-    "after_close_session": null
+    "before_open_session": "2026-06-16",
+    "after_close_session": "2026-06-15"
   },
-  "invest": [
-    {
-      "ticker": "AIOT",
-      "company": "Powerfleet, Inc.",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 38.0,
-      "rev_use": 38.0,
-      "mom_aligned": 13.867,
-      "old_weight": 0.5,
-      "mom_weight": 0.4193,
-      "no_data": false
-    }
-  ],
+  "invest": [],
   "screened": [
     {
-      "ticker": "CGC",
-      "company": "Canopy Growth Corporation",
+      "ticker": "DOMO",
+      "company": "Domo, Inc.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "HITI",
+      "company": "High Tide Inc.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "PLAY",
+      "company": "Dave & Buster's Entertainment, Inc.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "QMCO",
+      "company": "Quantum Corporation",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "UXIN",
+      "company": "Uxin Limited",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CMTL",
-      "company": "Comtech Telecommunications Corp.",
+      "ticker": "VNCE",
+      "company": "Vince Holding Corp.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CODA",
-      "company": "Coda Octopus Group, Inc.",
+      "ticker": "WLY",
+      "company": "John Wiley & Sons, Inc.",
       "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "JRSH",
-      "company": "Jerash Holdings (US), Inc.",
-      "session": "BMO",
-      "reason": "below_threshold"
+      "reason": "barrier"
     }
   ]
 }
