@@ -1,34 +1,22 @@
 {
-  "report_date": "2026-06-17",
-  "built_at_utc": "2026-06-17T20:56:24+00:00",
+  "report_date": "2026-06-18",
+  "built_at_utc": "2026-06-18T21:13:50+00:00",
   "window": {
-    "before_open_session": "2026-06-18",
-    "after_close_session": "2026-06-17"
+    "before_open_session": "2026-06-22",
+    "after_close_session": "2026-06-18"
   },
   "invest": [],
   "screened": [
     {
-      "ticker": "ACN",
-      "company": "Accenture plc",
+      "ticker": "FRVO",
+      "company": "Fervo Energy Company",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "KR",
-      "company": "The Kroger Co.",
+      "ticker": "POWW",
+      "company": "Outdoor Holding Company",
       "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "SB",
-      "company": "Safe Bulkers, Inc.",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "SWBI",
-      "company": "Smith & Wesson Brands, Inc.",
-      "session": "AMC",
       "reason": "below_threshold"
     }
   ]
