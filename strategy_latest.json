@@ -1,15 +1,15 @@
 {
-  "report_date": "2026-06-18",
-  "built_at_utc": "2026-06-18T21:13:50+00:00",
+  "report_date": "2026-06-19",
+  "built_at_utc": "2026-06-19T20:21:35+00:00",
   "window": {
-    "before_open_session": "2026-06-22",
-    "after_close_session": "2026-06-18"
+    "before_open_session": "2026-06-19",
+    "after_close_session": null
   },
   "invest": [],
   "screened": [
     {
-      "ticker": "FRVO",
-      "company": "Fervo Energy Company",
+      "ticker": "EBF",
+      "company": "Ennis, Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     },
