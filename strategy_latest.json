@@ -1,28 +1,59 @@
 {
-  "report_date": "2026-06-22",
-  "built_at_utc": "2026-06-22T21:28:24+00:00",
+  "report_date": "2026-06-23",
+  "built_at_utc": "2026-06-23T20:55:50+00:00",
   "window": {
-    "before_open_session": "2026-06-22",
-    "after_close_session": null
+    "before_open_session": "2026-06-24",
+    "after_close_session": "2026-06-23"
   },
-  "invest": [],
+  "invest": [
+    {
+      "ticker": "DAKT",
+      "company": "Daktronics, Inc.",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 43.0,
+      "rev_use": 38.0,
+      "mom_aligned": -1.734,
+      "old_weight": 0.5,
+      "mom_weight": 0.4193,
+      "no_data": false
+    }
+  ],
   "screened": [
     {
-      "ticker": "CCL",
-      "company": "Carnival Corporation & plc",
+      "ticker": "CBRS",
+      "company": "Cerebras Systems, Inc.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "FDX",
+      "company": "FedEx Corporation",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "KBH",
+      "company": "KB Home",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "NG",
+      "company": "NOVAGOLD Resources Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "KFY",
-      "company": "Korn Ferry",
+      "ticker": "PAYX",
+      "company": "Paychex, Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "SUNB",
-      "company": "Sunbelt Rentals Holdings, Inc.",
-      "session": "BMO",
+      "ticker": "WOR",
+      "company": "Worthington Enterprises, Inc.",
+      "session": "AMC",
       "reason": "below_threshold"
     }
   ]
