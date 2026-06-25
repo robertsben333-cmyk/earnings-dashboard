@@ -1,101 +1,28 @@
 {
-  "report_date": "2026-06-24",
-  "built_at_utc": "2026-06-24T20:23:23+00:00",
+  "report_date": "2026-06-25",
+  "built_at_utc": "2026-06-25T20:35:46+00:00",
   "window": {
-    "before_open_session": "2026-06-24",
+    "before_open_session": "2026-06-25",
     "after_close_session": null
   },
-  "invest": [
-    {
-      "ticker": "DRI",
-      "company": "Darden Restaurants",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 36.0,
-      "rev_use": 38.0,
-      "mom_aligned": 0.651,
-      "old_weight": 0.5,
-      "mom_weight": 0.335,
-      "no_data": false
-    },
-    {
-      "ticker": "SNX",
-      "company": "TD SYNNEX",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 41.0,
-      "rev_use": 32.5,
-      "mom_aligned": -0.011,
-      "old_weight": 0.5,
-      "mom_weight": 0.665,
-      "no_data": false
-    }
-  ],
+  "invest": [],
   "screened": [
     {
-      "ticker": "AYI",
-      "company": "Acuity",
+      "ticker": "AOUT",
+      "company": "American Outdoor Brands, Inc.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "APOG",
+      "company": "Apogee Enterprises, Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "BB",
-      "company": "BlackBerry",
+      "ticker": "CNVS",
+      "company": "Cineverse Corp.",
       "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "CMC",
-      "company": "Commercial Metals",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "FUL",
-      "company": "H.B. Fuller",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "JEF",
-      "company": "Jefferies",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "MEI",
-      "company": "Methode Electronics",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "MKC",
-      "company": "McCormick",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "MLKN",
-      "company": "MillerKnoll",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron Technology",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "WGO",
-      "company": "Winnebago",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "WS",
-      "company": "Worthington Steel",
-      "session": "AMC",
       "reason": "below_threshold"
     }
   ]
