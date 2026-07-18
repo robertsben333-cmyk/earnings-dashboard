@@ -1,27 +1,33 @@
 {
-  "report_date": "2026-06-25",
-  "built_at_utc": "2026-07-17T19:47:06+00:00",
+  "report_date": "2026-07-18",
+  "built_at_utc": "2026-07-18T19:50:50+00:00",
   "window": {
-    "before_open_session": "2026-06-25",
+    "before_open_session": "2026-07-17",
     "after_close_session": null
   },
   "invest": [],
   "screened": [
     {
-      "ticker": "AOUT",
-      "company": "American Outdoor Brands, Inc.",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "APOG",
-      "company": "Apogee Enterprises, Inc.",
+      "ticker": "AMC",
+      "company": "AMC Entertainment Holdings, Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CNVS",
-      "company": "Cineverse Corp.",
+      "ticker": "DPZ",
+      "company": "Domino's Pizza, Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "DX",
+      "company": "Dynex Capital, Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "RYAAY",
+      "company": "Ryanair Holdings plc ADR",
       "session": "BMO",
       "reason": "below_threshold"
     }
