@@ -1,34 +1,203 @@
 {
-  "report_date": "2026-07-18",
-  "built_at_utc": "2026-07-19T19:53:13+00:00",
+  "report_date": "2026-07-20",
+  "built_at_utc": "2026-07-20T20:12:28+00:00",
   "window": {
-    "before_open_session": "2026-07-17",
+    "before_open_session": "2026-07-20",
     "after_close_session": null
   },
-  "invest": [],
+  "invest": [
+    {
+      "ticker": "HAS",
+      "company": "Hasbro",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 36.0,
+      "rev_use": 37.0,
+      "mom_aligned": -0.356,
+      "old_weight": 0.0268,
+      "mom_weight": 0.0379,
+      "no_data": false
+    },
+    {
+      "ticker": "SCHW",
+      "company": "Charles Schwab",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 42.0,
+      "rev_use": 33.0,
+      "mom_aligned": 0.107,
+      "old_weight": 0.4375,
+      "mom_weight": 0.234,
+      "no_data": false
+    },
+    {
+      "ticker": "STLD",
+      "company": "Steel Dynamics",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 39.0,
+      "rev_use": 36.0,
+      "mom_aligned": -1.303,
+      "old_weight": 0.1429,
+      "mom_weight": 0.1011,
+      "no_data": false
+    },
+    {
+      "ticker": "VMI",
+      "company": "Valmont Industries",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 42.0,
+      "rev_use": 36.0,
+      "mom_aligned": -1.963,
+      "old_weight": 0.25,
+      "mom_weight": 0.1337,
+      "no_data": false
+    },
+    {
+      "ticker": "WRB",
+      "company": "W.R. Berkley",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 37.0,
+      "rev_use": 32.0,
+      "mom_aligned": 4.29,
+      "old_weight": 0.1429,
+      "mom_weight": 0.4934,
+      "no_data": false
+    }
+  ],
   "screened": [
     {
-      "ticker": "AMC",
-      "company": "AMC Entertainment Holdings, Inc.",
+      "ticker": "ALLY",
+      "company": "Ally Financial",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "DPZ",
-      "company": "Domino's Pizza, Inc.",
+      "ticker": "AUB",
+      "company": "Atlantic Union Bankshares",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "DX",
-      "company": "Dynex Capital, Inc.",
+      "ticker": "BOKF",
+      "company": "BOK Financial",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "CALX",
+      "company": "Calix",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "CCK",
+      "company": "Crown Holdings",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "DHI",
+      "company": "D.R. Horton",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "RYAAY",
-      "company": "Ryanair Holdings plc ADR",
+      "ticker": "DHR",
+      "company": "Danaher",
       "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "EFX",
+      "company": "Equifax",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "FOR",
+      "company": "Forestar",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "GM",
+      "company": "General Motors",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "GPC",
+      "company": "Genuine Parts",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "HAL",
+      "company": "Halliburton",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "KEY",
+      "company": "KeyCorp",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "MCRI",
+      "company": "Monarch Casino & Resort",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "MMM",
+      "company": "3M",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "MRSH",
+      "company": "Marsh",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "MSCI",
+      "company": "MSCI",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "NOC",
+      "company": "Northrop Grumman",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "SYF",
+      "company": "Synchrony Financial",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "VICR",
+      "company": "Vicor",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "WTFC",
+      "company": "Wintrust Financial",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "ZION",
+      "company": "Zions Bancorp",
+      "session": "AMC",
       "reason": "below_threshold"
     }
   ]
