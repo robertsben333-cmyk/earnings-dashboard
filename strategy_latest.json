@@ -1,6 +1,6 @@
 {
   "report_date": "2026-07-22",
-  "built_at_utc": "2026-07-24T20:02:06+00:00",
+  "built_at_utc": "2026-07-25T19:57:01+00:00",
   "window": {
     "before_open_session": "2026-07-22",
     "after_close_session": null
@@ -13,7 +13,7 @@
       "side": 1,
       "dir_use": 38.0,
       "rev_use": 32.0,
-      "mom_aligned": 5.683,
+      "mom_aligned": 5.208,
       "old_weight": 0.3333,
       "mom_weight": 0.4023,
       "no_data": false
@@ -25,7 +25,7 @@
       "side": -1,
       "dir_use": -39.0,
       "rev_use": 35.0,
-      "mom_aligned": 5.261,
+      "mom_aligned": 5.461,
       "old_weight": 0.2778,
       "mom_weight": 0.2904,
       "no_data": false
@@ -37,7 +37,7 @@
       "side": 1,
       "dir_use": 42.0,
       "rev_use": 36.0,
-      "mom_aligned": -3.507,
+      "mom_aligned": -3.284,
       "old_weight": 0.3889,
       "mom_weight": 0.3073,
       "no_data": false
