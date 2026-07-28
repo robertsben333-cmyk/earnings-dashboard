@@ -1,137 +1,101 @@
 {
-  "report_date": "2026-07-27",
-  "built_at_utc": "2026-07-27T20:09:11+00:00",
+  "report_date": "2026-07-28",
+  "built_at_utc": "2026-07-28T20:06:33+00:00",
   "window": {
-    "before_open_session": "2026-07-27",
+    "before_open_session": null,
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "KO",
-      "company": "Coca-Cola",
+      "ticker": "SOFI",
+      "company": "SoFi Technologies",
       "session": "BMO",
       "side": 1,
-      "dir_use": 39.0,
-      "rev_use": 33.0,
-      "mom_aligned": 3.524,
-      "old_weight": 0.3684,
-      "mom_weight": 0.34,
-      "no_data": false
-    },
-    {
-      "ticker": "NUE",
-      "company": "Nucor",
-      "session": "AMC",
-      "side": 1,
-      "dir_use": 45.0,
-      "rev_use": 36.0,
-      "mom_aligned": 3.305,
-      "old_weight": 0.5,
-      "mom_weight": 0.5514,
-      "no_data": false
-    },
-    {
-      "ticker": "UPS",
-      "company": "United Parcel Service",
-      "session": "BMO",
-      "side": -1,
-      "dir_use": -40.0,
+      "dir_use": 43.0,
       "rev_use": 38.0,
-      "mom_aligned": 1.264,
-      "old_weight": 0.1316,
-      "mom_weight": 0.1086,
+      "mom_aligned": 0.576,
+      "old_weight": 0.5,
+      "mom_weight": 0.4193,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "AMKR",
-      "company": "Amkor Technology",
+      "ticker": "BE",
+      "company": "Bloom Energy",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "APLD",
-      "company": "Applied Digital",
+      "ticker": "ENPH",
+      "company": "Enphase Energy",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "BA",
-      "company": "Boeing",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "CARR",
-      "company": "Carrier Global",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "CDNS",
-      "company": "Cadence Design Systems",
+      "ticker": "F",
+      "company": "Ford Motor",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CNC",
-      "company": "Centene",
+      "ticker": "GD",
+      "company": "General Dynamics",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "FFIV",
-      "company": "F5",
+      "ticker": "HUM",
+      "company": "Humana",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "ODFL",
+      "company": "Old Dominion Freight Line",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "PG",
+      "company": "Procter & Gamble",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "V",
+      "company": "Visa",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "HLT",
-      "company": "Hilton",
+      "ticker": "VFC",
+      "company": "VF Corporation",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "PCAR",
-      "company": "PACCAR",
+      "ticker": "VRT",
+      "company": "Vertiv Holdings",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "PYPL",
-      "company": "PayPal",
+      "ticker": "WING",
+      "company": "Wingstop",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "RCL",
-      "company": "Royal Caribbean",
+      "ticker": "APH",
+      "company": "Amphenol",
       "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "UHS",
-      "company": "Universal Health Services",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "WELL",
-      "company": "Welltower",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "CLS",
-      "company": "Celestica",
-      "session": "AMC",
       "reason": "barrier"
     },
     {
-      "ticker": "GLW",
-      "company": "Corning",
-      "session": "BMO",
+      "ticker": "STX",
+      "company": "Seagate Technology",
+      "session": "AMC",
       "reason": "barrier"
     }
   ]
