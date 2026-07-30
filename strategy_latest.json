@@ -1,150 +1,180 @@
 {
-  "report_date": "2026-07-29",
-  "built_at_utc": "2026-07-29T20:00:54+00:00",
+  "report_date": "2026-07-30",
+  "built_at_utc": "2026-07-30T20:05:54+00:00",
   "window": {
-    "before_open_session": "2026-07-29",
-    "after_close_session": null
+    "before_open_session": "2026-07-31",
+    "after_close_session": "2026-07-30"
   },
   "invest": [
     {
-      "ticker": "VLO",
-      "company": "Valero Energy",
+      "ticker": "ABBV",
+      "company": "AbbVie",
       "session": "BMO",
       "side": 1,
-      "dir_use": 44.0,
-      "rev_use": 35.0,
-      "mom_aligned": -0.491,
+      "dir_use": 38.0,
+      "rev_use": 32.0,
+      "mom_aligned": -2.521,
+      "old_weight": 0.3333,
+      "mom_weight": 0.3485,
+      "no_data": false
+    },
+    {
+      "ticker": "CVX",
+      "company": "Chevron",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 38.0,
+      "rev_use": 36.0,
+      "mom_aligned": 2.514,
+      "old_weight": 0.1667,
+      "mom_weight": 0.1743,
+      "no_data": false
+    },
+    {
+      "ticker": "XOM",
+      "company": "Exxon Mobil",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 45.0,
+      "rev_use": 34.0,
+      "mom_aligned": 2.725,
       "old_weight": 0.5,
-      "mom_weight": 0.5533,
+      "mom_weight": 0.4772,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "ALGN",
-      "company": "Align Technology",
+      "ticker": "AAPL",
+      "company": "Apple",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "ARM",
-      "company": "Arm Holdings",
+      "ticker": "AMZN",
+      "company": "Amazon.com",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "BLDR",
-      "company": "Builders FirstSource",
+      "ticker": "CBOE",
+      "company": "Cboe Global Markets",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "BMY",
-      "company": "Bristol Myers Squibb",
+      "ticker": "CHD",
+      "company": "Church & Dwight",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CMG",
-      "company": "Chipotle Mexican Grill",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "CROX",
-      "company": "Crocs",
+      "ticker": "CL",
+      "company": "Colgate-Palmolive",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CVNA",
-      "company": "Carvana",
+      "ticker": "COIN",
+      "company": "Coinbase Global",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "FICO",
-      "company": "Fair Isaac",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "FTNT",
-      "company": "Fortinet",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "HOOD",
-      "company": "Robinhood Markets",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "HSY",
-      "company": "Hershey",
+      "ticker": "D",
+      "company": "Dominion Energy",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "LRCX",
-      "company": "Lam Research",
+      "ticker": "DXCM",
+      "company": "DexCom",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "MA",
-      "company": "Mastercard",
+      "ticker": "ETN",
+      "company": "Eaton",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "META",
-      "company": "Meta Platforms",
+      "ticker": "GDDY",
+      "company": "GoDaddy",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "MO",
-      "company": "Altria",
+      "ticker": "LYB",
+      "company": "LyondellBasell",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft",
+      "ticker": "LYV",
+      "company": "Live Nation",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "SBUX",
-      "company": "Starbucks",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "TT",
-      "company": "Trane Technologies",
+      "ticker": "MRNA",
+      "company": "Moderna",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "EME",
-      "company": "EMCOR Group",
-      "session": "BMO",
-      "reason": "barrier"
-    },
-    {
-      "ticker": "PWR",
-      "company": "Quanta Services",
-      "session": "BMO",
-      "reason": "barrier"
-    },
-    {
-      "ticker": "QCOM",
-      "company": "Qualcomm",
+      "ticker": "MSTR",
+      "company": "Strategy",
       "session": "AMC",
-      "reason": "barrier"
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "NBIX",
+      "company": "Neurocrine Biosciences",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "NET",
+      "company": "Cloudflare",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "RBLX",
+      "company": "Roblox",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "RDDT",
+      "company": "Reddit",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "RIVN",
+      "company": "Rivian Automotive",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "TROW",
+      "company": "T. Rowe Price",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "VALE",
+      "company": "Vale",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "WY",
+      "company": "Weyerhaeuser",
+      "session": "AMC",
+      "reason": "below_threshold"
     }
   ]
 }
