@@ -1,6 +1,6 @@
 {
   "report_date": "2026-07-31",
-  "built_at_utc": "2026-07-31T20:08:13+00:00",
+  "built_at_utc": "2026-08-01T19:54:30+00:00",
   "window": {
     "before_open_session": "2026-07-31",
     "after_close_session": null
@@ -13,7 +13,7 @@
       "side": 1,
       "dir_use": 36.0,
       "rev_use": 39.0,
-      "mom_aligned": -0.576,
+      "mom_aligned": -0.797,
       "old_weight": 0.5,
       "mom_weight": 0.3747,
       "no_data": false
