@@ -1,96 +1,114 @@
 {
-  "report_date": "2026-07-31",
-  "built_at_utc": "2026-08-02T19:53:45+00:00",
+  "report_date": "2026-08-03",
+  "built_at_utc": "2026-08-03T20:17:54+00:00",
   "window": {
-    "before_open_session": "2026-07-31",
+    "before_open_session": "2026-08-03",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "DD",
-      "company": "DuPont",
-      "session": "BMO",
+      "ticker": "BWXT",
+      "company": "BWX Technologies",
+      "session": "AMC",
       "side": 1,
-      "dir_use": 36.0,
-      "rev_use": 39.0,
-      "mom_aligned": -0.797,
+      "dir_use": 45.0,
+      "rev_use": 38.0,
+      "mom_aligned": 4.971,
       "old_weight": 0.5,
-      "mom_weight": 0.3747,
+      "mom_weight": 0.6631,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "CRVL",
-      "company": "CorVel",
+      "ticker": "APO",
+      "company": "Apollo Global Management",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CWK",
-      "company": "Cushman & Wakefield",
+      "ticker": "BALL",
+      "company": "Ball Corp.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "DEA",
-      "company": "Easterly Government Properties",
+      "ticker": "CAT",
+      "company": "Caterpillar",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "EPC",
-      "company": "Edgewell Personal Care",
+      "ticker": "FANG",
+      "company": "Diamondback Energy",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "IT",
+      "company": "Gartner",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "L",
-      "company": "Loews",
+      "ticker": "KMB",
+      "company": "Kimberly-Clark",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "MAR",
-      "company": "Marriott International",
+      "ticker": "LDOS",
+      "company": "Leidos",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "PEG",
-      "company": "Public Service Enterprise Group",
+      "ticker": "MCD",
+      "company": "McDonald's",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "PFE",
-      "company": "Pfizer",
+      "ticker": "MPC",
+      "company": "Marathon Petroleum",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "SBH",
-      "company": "Sally Beauty",
+      "ticker": "MRK",
+      "company": "Merck",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "WAT",
-      "company": "Waters",
+      "ticker": "NRG",
+      "company": "NRG Energy",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "WLK",
-      "company": "Westlake",
+      "ticker": "ON",
+      "company": "ON Semiconductor",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "POWL",
+      "company": "Powell Industries",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "ROK",
+      "company": "Rockwell Automation",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "TSN",
-      "company": "Tyson Foods",
-      "session": "BMO",
-      "reason": "barrier"
+      "ticker": "VRTX",
+      "company": "Vertex Pharmaceuticals",
+      "session": "AMC",
+      "reason": "below_threshold"
     }
   ]
 }
