@@ -1,113 +1,101 @@
 {
-  "report_date": "2026-08-04",
-  "built_at_utc": "2026-08-04T20:12:28+00:00",
+  "report_date": "2026-08-05",
+  "built_at_utc": "2026-08-05T20:14:16+00:00",
   "window": {
-    "before_open_session": null,
+    "before_open_session": "2026-08-05",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "BKNG",
-      "company": "Booking Holdings",
+      "ticker": "DUOL",
+      "company": "Duolingo",
       "session": "AMC",
       "side": 1,
       "dir_use": 38.0,
       "rev_use": 39.0,
-      "mom_aligned": 0.37,
-      "old_weight": 0.0248,
-      "mom_weight": 0.0547,
+      "mom_aligned": -1.771,
+      "old_weight": 0.0283,
+      "mom_weight": 0.0303,
       "no_data": false
     },
     {
-      "ticker": "CVS",
-      "company": "CVS Health",
+      "ticker": "HWM",
+      "company": "Howmet Aerospace",
       "session": "BMO",
       "side": 1,
-      "dir_use": 40.0,
+      "dir_use": 45.0,
       "rev_use": 35.0,
-      "mom_aligned": -0.743,
-      "old_weight": 0.2066,
-      "mom_weight": 0.3059,
+      "mom_aligned": 1.633,
+      "old_weight": 0.4717,
+      "mom_weight": 0.2764,
       "no_data": false
     },
     {
-      "ticker": "LLY",
-      "company": "Eli Lilly",
+      "ticker": "PH",
+      "company": "Parker-Hannifin",
       "session": "BMO",
       "side": 1,
-      "dir_use": 55.0,
-      "rev_use": 37.0,
-      "mom_aligned": -3.058,
-      "old_weight": 0.4959,
-      "mom_weight": 0.3671,
-      "no_data": false
-    },
-    {
-      "ticker": "UBER",
-      "company": "Uber Technologies",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 46.0,
-      "rev_use": 37.0,
-      "mom_aligned": 2.781,
-      "old_weight": 0.2727,
-      "mom_weight": 0.2723,
+      "dir_use": 48.0,
+      "rev_use": 29.0,
+      "mom_aligned": 0.554,
+      "old_weight": 0.5,
+      "mom_weight": 0.6933,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "ALAB",
-      "company": "Astera Labs",
+      "ticker": "APP",
+      "company": "AppLovin",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
+      "ticker": "AXON",
+      "company": "Axon Enterprise",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "ANET",
-      "company": "Arista Networks",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "CPNG",
-      "company": "Coupang",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "DIS",
-      "company": "Walt Disney",
+      "ticker": "CEG",
+      "company": "Constellation Energy",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "LSCC",
-      "company": "Lattice Semiconductor",
+      "ticker": "DASH",
+      "company": "DoorDash",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "PINS",
-      "company": "Pinterest",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "SHOP",
-      "company": "Shopify",
+      "ticker": "DDOG",
+      "company": "Datadog",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "TOST",
-      "company": "Toast",
+      "ticker": "FISV",
+      "company": "Fiserv",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "MELI",
+      "company": "MercadoLibre",
       "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "SNDK",
+      "company": "Sandisk",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "WBD",
+      "company": "Warner Bros. Discovery",
+      "session": "BMO",
       "reason": "below_threshold"
     }
   ]
