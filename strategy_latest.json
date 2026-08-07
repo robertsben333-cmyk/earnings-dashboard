@@ -1,100 +1,94 @@
 {
-  "report_date": "2026-08-05",
-  "built_at_utc": "2026-08-05T20:14:16+00:00",
+  "report_date": "2026-08-06",
+  "built_at_utc": "2026-08-07T00:31:01+00:00",
   "window": {
-    "before_open_session": "2026-08-05",
+    "before_open_session": null,
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "DUOL",
-      "company": "Duolingo",
+      "ticker": "CART",
+      "company": "Instacart",
       "session": "AMC",
       "side": 1,
-      "dir_use": 38.0,
-      "rev_use": 39.0,
-      "mom_aligned": -1.771,
-      "old_weight": 0.0283,
-      "mom_weight": 0.0303,
-      "no_data": false
-    },
-    {
-      "ticker": "HWM",
-      "company": "Howmet Aerospace",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 45.0,
+      "dir_use": 44.0,
       "rev_use": 35.0,
-      "mom_aligned": 1.633,
-      "old_weight": 0.4717,
-      "mom_weight": 0.2764,
+      "mom_aligned": 8.412,
+      "old_weight": 0.5,
+      "mom_weight": 0.8936,
       "no_data": false
     },
     {
-      "ticker": "PH",
-      "company": "Parker-Hannifin",
+      "ticker": "VST",
+      "company": "Vistra",
       "session": "BMO",
       "side": 1,
-      "dir_use": 48.0,
-      "rev_use": 29.0,
-      "mom_aligned": 0.554,
+      "dir_use": 38.0,
+      "rev_use": 35.0,
+      "mom_aligned": -0.574,
       "old_weight": 0.5,
-      "mom_weight": 0.6933,
+      "mom_weight": 0.1064,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "APP",
-      "company": "AppLovin",
+      "ticker": "ABNB",
+      "company": "Airbnb",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "AXON",
-      "company": "Axon Enterprise",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "CEG",
-      "company": "Constellation Energy",
+      "ticker": "ACMR",
+      "company": "ACM Research",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "DASH",
-      "company": "DoorDash",
+      "ticker": "DKNG",
+      "company": "DraftKings",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "DDOG",
-      "company": "Datadog",
+      "ticker": "LYFT",
+      "company": "Lyft",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "NET",
+      "company": "Cloudflare",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "ROKU",
+      "company": "Roku",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "STRZ",
+      "company": "Starz Entertainment",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "FISV",
-      "company": "Fiserv",
+      "ticker": "TTD",
+      "company": "The Trade Desk",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "TTWO",
+      "company": "Take-Two Interactive",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "MELI",
-      "company": "MercadoLibre",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "SNDK",
-      "company": "Sandisk",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "WBD",
-      "company": "Warner Bros. Discovery",
+      "ticker": "WEN",
+      "company": "The Wendy's Company",
       "session": "BMO",
       "reason": "below_threshold"
     }
