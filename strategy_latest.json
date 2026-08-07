@@ -1,94 +1,106 @@
 {
-  "report_date": "2026-08-06",
-  "built_at_utc": "2026-08-07T00:31:01+00:00",
+  "report_date": "2026-08-07",
+  "built_at_utc": "2026-08-07T19:38:45+00:00",
   "window": {
-    "before_open_session": null,
+    "before_open_session": "2026-08-07",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "CART",
-      "company": "Instacart",
-      "session": "AMC",
+      "ticker": "B",
+      "company": "Barrick Mining Corporation",
+      "session": "BMO",
       "side": 1,
-      "dir_use": 44.0,
-      "rev_use": 35.0,
-      "mom_aligned": 8.412,
-      "old_weight": 0.5,
-      "mom_weight": 0.8936,
+      "dir_use": 43.0,
+      "rev_use": 39.0,
+      "mom_aligned": 6.595,
+      "old_weight": 0.0792,
+      "mom_weight": 0.0737,
       "no_data": false
     },
     {
-      "ticker": "VST",
-      "company": "Vistra",
+      "ticker": "INSW",
+      "company": "International Seaways, Inc.",
       "session": "BMO",
       "side": 1,
-      "dir_use": 38.0,
+      "dir_use": 48.0,
+      "rev_use": 38.0,
+      "mom_aligned": 2.038,
+      "old_weight": 0.2574,
+      "mom_weight": 0.188,
+      "no_data": false
+    },
+    {
+      "ticker": "RDNT",
+      "company": "RadNet, Inc.",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 40.0,
       "rev_use": 35.0,
-      "mom_aligned": -0.574,
-      "old_weight": 0.5,
-      "mom_weight": 0.1064,
+      "mom_aligned": 5.653,
+      "old_weight": 0.2475,
+      "mom_weight": 0.2914,
+      "no_data": false
+    },
+    {
+      "ticker": "SDRL",
+      "company": "Seadrill Limited",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 41.0,
+      "rev_use": 33.0,
+      "mom_aligned": 2.319,
+      "old_weight": 0.4158,
+      "mom_weight": 0.4469,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "ABNB",
-      "company": "Airbnb",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "ACMR",
-      "company": "ACM Research",
+      "ticker": "AXSM",
+      "company": "Axsome Therapeutics, Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "DKNG",
-      "company": "DraftKings",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "LYFT",
-      "company": "Lyft",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "NET",
-      "company": "Cloudflare",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "ROKU",
-      "company": "Roku",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "STRZ",
-      "company": "Starz Entertainment",
+      "ticker": "CAMT",
+      "company": "Camtek Ltd.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "TTD",
-      "company": "The Trade Desk",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "TTWO",
-      "company": "Take-Two Interactive",
+      "ticker": "CRC",
+      "company": "California Resources Corporation",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "WEN",
-      "company": "The Wendy's Company",
+      "ticker": "DOLE",
+      "company": "Dole plc",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "FERG",
+      "company": "Ferguson Enterprises Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "MNDY",
+      "company": "monday.com Ltd.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "PERI",
+      "company": "Perion Network Ltd.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "SGRY",
+      "company": "Surgery Partners, Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     }
