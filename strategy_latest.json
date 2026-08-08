@@ -1,6 +1,6 @@
 {
   "report_date": "2026-08-07",
-  "built_at_utc": "2026-08-07T19:38:45+00:00",
+  "built_at_utc": "2026-08-08T19:16:06+00:00",
   "window": {
     "before_open_session": "2026-08-07",
     "after_close_session": null
@@ -13,7 +13,7 @@
       "side": 1,
       "dir_use": 43.0,
       "rev_use": 39.0,
-      "mom_aligned": 6.595,
+      "mom_aligned": 6.137,
       "old_weight": 0.0792,
       "mom_weight": 0.0737,
       "no_data": false
@@ -25,7 +25,7 @@
       "side": 1,
       "dir_use": 48.0,
       "rev_use": 38.0,
-      "mom_aligned": 2.038,
+      "mom_aligned": 2.469,
       "old_weight": 0.2574,
       "mom_weight": 0.188,
       "no_data": false
@@ -37,7 +37,7 @@
       "side": 1,
       "dir_use": 40.0,
       "rev_use": 35.0,
-      "mom_aligned": 5.653,
+      "mom_aligned": 7.292,
       "old_weight": 0.2475,
       "mom_weight": 0.2914,
       "no_data": false
@@ -49,7 +49,7 @@
       "side": 1,
       "dir_use": 41.0,
       "rev_use": 33.0,
-      "mom_aligned": 2.319,
+      "mom_aligned": 2.222,
       "old_weight": 0.4158,
       "mom_weight": 0.4469,
       "no_data": false
