@@ -1,106 +1,160 @@
 {
-  "report_date": "2026-08-07",
-  "built_at_utc": "2026-08-09T19:20:07+00:00",
+  "report_date": "2026-08-10",
+  "built_at_utc": "2026-08-10T19:41:50+00:00",
   "window": {
-    "before_open_session": "2026-08-07",
+    "before_open_session": "2026-08-10",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "B",
-      "company": "Barrick Mining Corporation",
+      "ticker": "ACM",
+      "company": "AECOM",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 45.0,
+      "rev_use": 30.0,
+      "mom_aligned": -2.511,
+      "old_weight": 0.3035,
+      "mom_weight": 0.2936,
+      "no_data": false
+    },
+    {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 49.0,
+      "rev_use": 33.0,
+      "mom_aligned": -0.674,
+      "old_weight": 0.2974,
+      "mom_weight": 0.2432,
+      "no_data": false
+    },
+    {
+      "ticker": "MIDD",
+      "company": "Middleby",
       "session": "BMO",
       "side": 1,
       "dir_use": 43.0,
-      "rev_use": 39.0,
-      "mom_aligned": 6.137,
-      "old_weight": 0.0792,
-      "mom_weight": 0.0737,
-      "no_data": false
-    },
-    {
-      "ticker": "INSW",
-      "company": "International Seaways, Inc.",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 48.0,
-      "rev_use": 38.0,
-      "mom_aligned": 2.469,
-      "old_weight": 0.2574,
-      "mom_weight": 0.188,
-      "no_data": false
-    },
-    {
-      "ticker": "RDNT",
-      "company": "RadNet, Inc.",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 40.0,
-      "rev_use": 35.0,
-      "mom_aligned": 7.292,
-      "old_weight": 0.2475,
-      "mom_weight": 0.2914,
-      "no_data": false
-    },
-    {
-      "ticker": "SDRL",
-      "company": "Seadrill Limited",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 41.0,
       "rev_use": 33.0,
-      "mom_aligned": 2.222,
-      "old_weight": 0.4158,
-      "mom_weight": 0.4469,
+      "mom_aligned": -1.807,
+      "old_weight": 0.17,
+      "mom_weight": 0.1838,
+      "no_data": false
+    },
+    {
+      "ticker": "SE",
+      "company": "Sea Limited",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 46.0,
+      "rev_use": 36.0,
+      "mom_aligned": 3.332,
+      "old_weight": 0.1335,
+      "mom_weight": 0.1232,
+      "no_data": false
+    },
+    {
+      "ticker": "SPG",
+      "company": "Simon Property Group",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 38.5,
+      "rev_use": 31.0,
+      "mom_aligned": -1.234,
+      "old_weight": 0.0956,
+      "mom_weight": 0.1563,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "AXSM",
-      "company": "Axsome Therapeutics, Inc.",
+      "ticker": "ACHR",
+      "company": "Archer Aviation",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "AMTM",
+      "company": "Amentum",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "ARMK",
+      "company": "Aramark",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CAMT",
-      "company": "Camtek Ltd.",
+      "ticker": "ASTS",
+      "company": "AST SpaceMobile",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "BBIO",
+      "company": "BridgeBio Pharma",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "ETOR",
+      "company": "eToro",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CRC",
-      "company": "California Resources Corporation",
+      "ticker": "HIMS",
+      "company": "Hims & Hers Health",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "ONON",
+      "company": "On Holding",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "DOLE",
-      "company": "Dole plc",
+      "ticker": "PLUG",
+      "company": "Plug Power",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "RKLB",
+      "company": "Rocket Lab",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "RPD",
+      "company": "Rapid7",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "RUM",
+      "company": "Rumble",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "TME",
+      "company": "Tencent Music Entertainment",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "FERG",
-      "company": "Ferguson Enterprises Inc.",
-      "session": "BMO",
+      "ticker": "UPWK",
+      "company": "Upwork",
+      "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "MNDY",
-      "company": "monday.com Ltd.",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "PERI",
-      "company": "Perion Network Ltd.",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "SGRY",
-      "company": "Surgery Partners, Inc.",
+      "ticker": "VG",
+      "company": "Venture Global",
       "session": "BMO",
       "reason": "below_threshold"
     }
