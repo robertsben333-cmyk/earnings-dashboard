@@ -1,131 +1,137 @@
 {
-  "report_date": "2026-08-11",
-  "built_at_utc": "2026-08-11T19:45:38+00:00",
+  "report_date": "2026-08-12",
+  "built_at_utc": "2026-08-12T19:47:59+00:00",
   "window": {
-    "before_open_session": "2026-08-11",
+    "before_open_session": "2026-08-12",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "ATRO",
-      "company": "Astronics Corporation",
-      "session": "AMC",
-      "side": 1,
-      "dir_use": 44.0,
-      "rev_use": 33.0,
-      "mom_aligned": -3.938,
-      "old_weight": 0.4693,
-      "mom_weight": 0.284,
-      "no_data": false
-    },
-    {
-      "ticker": "FNV",
-      "company": "Franco-Nevada",
-      "session": "AMC",
-      "side": 1,
-      "dir_use": 39.5,
-      "rev_use": 29.5,
-      "mom_aligned": 1.782,
-      "old_weight": 0.352,
-      "mom_weight": 0.4494,
-      "no_data": false
-    },
-    {
-      "ticker": "HRB",
-      "company": "H&R Block, Inc.",
-      "session": "AMC",
-      "side": 1,
-      "dir_use": 37.0,
-      "rev_use": 32.0,
-      "mom_aligned": 0.087,
-      "old_weight": 0.1192,
-      "mom_weight": 0.1584,
-      "no_data": false
-    },
-    {
-      "ticker": "PFGC",
-      "company": "Performance Food Group",
+      "ticker": "AIT",
+      "company": "Applied Industrial Technologies, Inc.",
       "session": "BMO",
       "side": 1,
-      "dir_use": 36.0,
-      "rev_use": 32.0,
-      "mom_aligned": -1.422,
-      "old_weight": 0.0596,
-      "mom_weight": 0.1082,
+      "dir_use": 39.0,
+      "rev_use": 35.0,
+      "mom_aligned": -1.197,
+      "old_weight": 0.2151,
+      "mom_weight": 0.2119,
+      "no_data": false
+    },
+    {
+      "ticker": "ENS",
+      "company": "EnerSys",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 39.0,
+      "rev_use": 33.0,
+      "mom_aligned": 0.229,
+      "old_weight": 0.3011,
+      "mom_weight": 0.3244,
+      "no_data": false
+    },
+    {
+      "ticker": "PAAS",
+      "company": "Pan American Silver",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 43.0,
+      "rev_use": 35.0,
+      "mom_aligned": 1.289,
+      "old_weight": 0.4301,
+      "mom_weight": 0.4164,
+      "no_data": false
+    },
+    {
+      "ticker": "WWW",
+      "company": "Wolverine World Wide, Inc.",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 40.0,
+      "rev_use": 39.0,
+      "mom_aligned": -3.456,
+      "old_weight": 0.0538,
+      "mom_weight": 0.0474,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "AMCR",
-      "company": "Amcor",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "BGS",
-      "company": "B&G Foods, Inc.",
+      "ticker": "AOSL",
+      "company": "Alpha and Omega Semiconductor Ltd.",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CAVA",
-      "company": "CAVA Group",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "CRWV",
-      "company": "CoreWeave",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "EAT",
-      "company": "Brinker International",
+      "ticker": "BIRK",
+      "company": "Birkenstock Holding",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "EYE",
-      "company": "National Vision Holdings, Inc.",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "FLY",
-      "company": "Firefly Aerospace Inc.",
+      "ticker": "CBRS",
+      "company": "Cerebras Systems",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "GLBE",
-      "company": "Global-e Online",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "KTB",
-      "company": "Kontoor Brands, Inc.",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "NBIS",
-      "company": "Nebius Group",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "SMCI",
-      "company": "Super Micro Computer",
+      "ticker": "COHR",
+      "company": "Coherent",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "LITE",
-      "company": "Lumentum",
+      "ticker": "CSCO",
+      "company": "Cisco Systems",
       "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "ENVX",
+      "company": "Enovix Corporation",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "GO",
+      "company": "Grocery Outlet Holding Corp.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "JACK",
+      "company": "Jack in the Box Inc.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "JD",
+      "company": "JD.com",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "LUNR",
+      "company": "Intuitive Machines",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "STUB",
+      "company": "StubHub Holdings, Inc.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "TPR",
+      "company": "Tapestry",
+      "session": "BMO",
+      "reason": "barrier"
+    },
+    {
+      "ticker": "YETI",
+      "company": "YETI Holdings",
+      "session": "BMO",
       "reason": "barrier"
     }
   ]
