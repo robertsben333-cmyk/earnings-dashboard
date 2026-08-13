@@ -1,138 +1,108 @@
 {
-  "report_date": "2026-08-12",
-  "built_at_utc": "2026-08-12T19:47:59+00:00",
+  "report_date": "2026-08-13",
+  "built_at_utc": "2026-08-13T19:44:17+00:00",
   "window": {
-    "before_open_session": "2026-08-12",
+    "before_open_session": "2026-08-13",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "AIT",
-      "company": "Applied Industrial Technologies, Inc.",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 39.0,
-      "rev_use": 35.0,
-      "mom_aligned": -1.197,
-      "old_weight": 0.2151,
-      "mom_weight": 0.2119,
-      "no_data": false
-    },
-    {
-      "ticker": "ENS",
-      "company": "EnerSys",
+      "ticker": "BAP",
+      "company": "Credicorp Ltd.",
       "session": "AMC",
-      "side": 1,
-      "dir_use": 39.0,
-      "rev_use": 33.0,
-      "mom_aligned": 0.229,
-      "old_weight": 0.3011,
-      "mom_weight": 0.3244,
-      "no_data": false
-    },
-    {
-      "ticker": "PAAS",
-      "company": "Pan American Silver",
-      "session": "AMC",
-      "side": 1,
-      "dir_use": 43.0,
-      "rev_use": 35.0,
-      "mom_aligned": 1.289,
-      "old_weight": 0.4301,
-      "mom_weight": 0.4164,
-      "no_data": false
-    },
-    {
-      "ticker": "WWW",
-      "company": "Wolverine World Wide, Inc.",
-      "session": "BMO",
       "side": 1,
       "dir_use": 40.0,
-      "rev_use": 39.0,
-      "mom_aligned": -3.456,
-      "old_weight": 0.0538,
-      "mom_weight": 0.0474,
+      "rev_use": 30.0,
+      "mom_aligned": 0.058,
+      "old_weight": 0.3788,
+      "mom_weight": 0.2264,
+      "no_data": false
+    },
+    {
+      "ticker": "DLO",
+      "company": "dLocal Limited",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 42.0,
+      "rev_use": 36.0,
+      "mom_aligned": 6.924,
+      "old_weight": 0.2121,
+      "mom_weight": 0.5955,
+      "no_data": false
+    },
+    {
+      "ticker": "HTFL",
+      "company": "Heartflow, Inc.",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 44.0,
+      "rev_use": 34.0,
+      "mom_aligned": -0.633,
+      "old_weight": 0.4091,
+      "mom_weight": 0.1781,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "AOSL",
-      "company": "Alpha and Omega Semiconductor Ltd.",
+      "ticker": "AMAT",
+      "company": "Applied Materials, Inc.",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "BIRK",
-      "company": "Birkenstock Holding",
+      "ticker": "GEMI",
+      "company": "Gemini Space Station, Inc.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "GLOB",
+      "company": "Globant S.A.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "KLC",
+      "company": "KinderCare Learning Companies, Inc.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "NU",
+      "company": "Nu Holdings Ltd.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "RLX",
+      "company": "RLX Technology Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CBRS",
-      "company": "Cerebras Systems",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "COHR",
-      "company": "Coherent",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "CSCO",
-      "company": "Cisco Systems",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "ENVX",
-      "company": "Enovix Corporation",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "GO",
-      "company": "Grocery Outlet Holding Corp.",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "JACK",
-      "company": "Jack in the Box Inc.",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "JD",
-      "company": "JD.com",
+      "ticker": "RMIX",
+      "company": "Suncrete",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "LUNR",
-      "company": "Intuitive Machines",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "STUB",
-      "company": "StubHub Holdings, Inc.",
+      "ticker": "STNE",
+      "company": "StoneCo Ltd.",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "TPR",
-      "company": "Tapestry",
-      "session": "BMO",
-      "reason": "barrier"
+      "ticker": "TMC",
+      "company": "TMC the metals company Inc.",
+      "session": "AMC",
+      "reason": "below_threshold"
     },
     {
-      "ticker": "YETI",
-      "company": "YETI Holdings",
+      "ticker": "TMS",
+      "company": "Teamshares Inc.",
       "session": "BMO",
-      "reason": "barrier"
+      "reason": "below_threshold"
     }
   ]
 }
