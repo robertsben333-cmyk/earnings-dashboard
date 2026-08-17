@@ -1,16 +1,53 @@
 {
-  "report_date": "2026-08-14",
-  "built_at_utc": "2026-08-16T19:01:51+00:00",
+  "report_date": "2026-08-17",
+  "built_at_utc": "2026-08-17T19:15:39+00:00",
   "window": {
-    "before_open_session": "2026-08-17",
-    "after_close_session": "2026-08-14"
+    "before_open_session": null,
+    "after_close_session": null
   },
-  "invest": [],
+  "invest": [
+    {
+      "ticker": "AS",
+      "company": "Amer Sports, Inc.",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 43.0,
+      "rev_use": 38.0,
+      "mom_aligned": -2.367,
+      "old_weight": 0.5,
+      "mom_weight": 0.4193,
+      "no_data": false
+    }
+  ],
   "screened": [
     {
-      "ticker": "HIVE",
-      "company": "HIVE Digital Technologies Ltd.",
+      "ticker": "BHP",
+      "company": "BHP Group Limited",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "BIDU",
+      "company": "Baidu, Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "FN",
+      "company": "Fabrinet",
       "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "HD",
+      "company": "The Home Depot, Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "KLAR",
+      "company": "Klarna Group plc",
+      "session": "BMO",
       "reason": "below_threshold"
     }
   ]
