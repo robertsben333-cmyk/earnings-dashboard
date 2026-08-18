@@ -1,52 +1,112 @@
 {
-  "report_date": "2026-08-17",
-  "built_at_utc": "2026-08-17T19:15:39+00:00",
+  "report_date": "2026-08-18",
+  "built_at_utc": "2026-08-18T19:16:02+00:00",
   "window": {
-    "before_open_session": null,
+    "before_open_session": "2026-08-18",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "AS",
-      "company": "Amer Sports, Inc.",
+      "ticker": "ADI",
+      "company": "Analog Devices",
       "session": "BMO",
       "side": 1,
-      "dir_use": 43.0,
+      "dir_use": 42.0,
       "rev_use": 38.0,
-      "mom_aligned": -2.367,
-      "old_weight": 0.5,
-      "mom_weight": 0.4193,
+      "mom_aligned": -2.888,
+      "old_weight": 0.0657,
+      "mom_weight": 0.0816,
+      "no_data": false
+    },
+    {
+      "ticker": "EL",
+      "company": "Est\u00e9e Lauder",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 41.0,
+      "rev_use": 39.0,
+      "mom_aligned": -2.377,
+      "old_weight": 0.0282,
+      "mom_weight": 0.0378,
+      "no_data": false
+    },
+    {
+      "ticker": "JKHY",
+      "company": "Jack Henry & Associates",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 37.0,
+      "rev_use": 35.0,
+      "mom_aligned": 1.036,
+      "old_weight": 0.0469,
+      "mom_weight": 0.1589,
+      "no_data": false
+    },
+    {
+      "ticker": "MRCY",
+      "company": "Mercury Systems",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 52.0,
+      "rev_use": 35.0,
+      "mom_aligned": -2.434,
+      "old_weight": 0.3991,
+      "mom_weight": 0.3179,
+      "no_data": false
+    },
+    {
+      "ticker": "TJX",
+      "company": "TJX Companies",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 49.0,
+      "rev_use": 33.0,
+      "mom_aligned": -0.282,
+      "old_weight": 0.4601,
+      "mom_weight": 0.4039,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "BHP",
-      "company": "BHP Group Limited",
+      "ticker": "KC",
+      "company": "Kingsoft Cloud",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "BIDU",
-      "company": "Baidu, Inc.",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "FN",
-      "company": "Fabrinet",
+      "ticker": "KEYS",
+      "company": "Keysight Technologies",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "HD",
-      "company": "The Home Depot, Inc.",
+      "ticker": "LOW",
+      "company": "Lowe's",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "KLAR",
-      "company": "Klarna Group plc",
+      "ticker": "LZB",
+      "company": "La-Z-Boy",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "TGT",
+      "company": "Target",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "TOL",
+      "company": "Toll Brothers",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "ZTO",
+      "company": "ZTO Express",
       "session": "BMO",
       "reason": "below_threshold"
     }
