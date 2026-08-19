@@ -1,112 +1,100 @@
 {
-  "report_date": "2026-08-18",
-  "built_at_utc": "2026-08-18T19:16:02+00:00",
+  "report_date": "2026-08-19",
+  "built_at_utc": "2026-08-19T19:07:57+00:00",
   "window": {
-    "before_open_session": "2026-08-18",
+    "before_open_session": "2026-08-19",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "ADI",
-      "company": "Analog Devices",
+      "ticker": "AAP",
+      "company": "Advance Auto Parts",
       "session": "BMO",
       "side": 1,
-      "dir_use": 42.0,
-      "rev_use": 38.0,
-      "mom_aligned": -2.888,
-      "old_weight": 0.0657,
-      "mom_weight": 0.0816,
+      "dir_use": 41.5,
+      "rev_use": 38.5,
+      "mom_aligned": -0.974,
+      "old_weight": 0.5,
+      "mom_weight": 0.397,
       "no_data": false
     },
     {
-      "ticker": "EL",
-      "company": "Est\u00e9e Lauder",
+      "ticker": "NTES",
+      "company": "NetEase",
       "session": "BMO",
       "side": 1,
-      "dir_use": 41.0,
-      "rev_use": 39.0,
-      "mom_aligned": -2.377,
-      "old_weight": 0.0282,
-      "mom_weight": 0.0378,
-      "no_data": false
-    },
-    {
-      "ticker": "JKHY",
-      "company": "Jack Henry & Associates",
-      "session": "AMC",
-      "side": 1,
-      "dir_use": 37.0,
+      "dir_use": 40.0,
       "rev_use": 35.0,
-      "mom_aligned": 1.036,
-      "old_weight": 0.0469,
-      "mom_weight": 0.1589,
-      "no_data": false
-    },
-    {
-      "ticker": "MRCY",
-      "company": "Mercury Systems",
-      "session": "AMC",
-      "side": 1,
-      "dir_use": 52.0,
-      "rev_use": 35.0,
-      "mom_aligned": -2.434,
-      "old_weight": 0.3991,
-      "mom_weight": 0.3179,
-      "no_data": false
-    },
-    {
-      "ticker": "TJX",
-      "company": "TJX Companies",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 49.0,
-      "rev_use": 33.0,
-      "mom_aligned": -0.282,
-      "old_weight": 0.4601,
-      "mom_weight": 0.4039,
+      "mom_aligned": 1.61,
+      "old_weight": 0.5,
+      "mom_weight": 0.5533,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "KC",
-      "company": "Kingsoft Cloud",
+      "ticker": "ATHM",
+      "company": "Autohome",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "KEYS",
-      "company": "Keysight Technologies",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "LOW",
-      "company": "Lowe's",
+      "ticker": "BABA",
+      "company": "Alibaba Group",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "LZB",
-      "company": "La-Z-Boy",
+      "ticker": "BILL",
+      "company": "BILL Holdings",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "TGT",
-      "company": "Target",
+      "ticker": "BULL",
+      "company": "Webull",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "COTY",
+      "company": "Coty",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "DE",
+      "company": "Deere & Company",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "TOL",
-      "company": "Toll Brothers",
+      "ticker": "FPS",
+      "company": "Forgent Power Solutions",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "FUTU",
+      "company": "Futu Holdings Limited",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "NDSN",
+      "company": "Nordson",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "ZTO",
-      "company": "ZTO Express",
+      "ticker": "SCSC",
+      "company": "ScanSource",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "WMT",
+      "company": "Walmart",
       "session": "BMO",
       "reason": "below_threshold"
     }
