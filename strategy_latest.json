@@ -1,60 +1,84 @@
 {
-  "report_date": "2026-08-20",
-  "built_at_utc": "2026-08-23T19:03:22+00:00",
+  "report_date": "2026-08-24",
+  "built_at_utc": "2026-08-24T19:17:39+00:00",
   "window": {
-    "before_open_session": "2026-08-20",
+    "before_open_session": "2026-08-24",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "BKE",
-      "company": "The Buckle, Inc.",
+      "ticker": "BMO",
+      "company": "Bank of Montreal",
       "session": "BMO",
       "side": 1,
-      "dir_use": 35.7,
-      "rev_use": 36.0,
-      "mom_aligned": 1.342,
+      "dir_use": 36.0,
+      "rev_use": 35.0,
+      "mom_aligned": -0.295,
       "old_weight": 0.5,
-      "mom_weight": 0.5087,
+      "mom_weight": 0.5533,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "BEKE",
-      "company": "KE Holdings Inc.",
+      "ticker": "BNS",
+      "company": "Bank of Nova Scotia",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "BJ",
-      "company": "BJ's Wholesale Club Holdings, Inc.",
+      "ticker": "BZ",
+      "company": "Kanzhun",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "FLO",
-      "company": "Flowers Foods, Inc.",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "ROST",
-      "company": "Ross Stores, Inc.",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "UI",
-      "company": "Ubiquiti Inc.",
+      "ticker": "DKS",
+      "company": "DICK'S Sporting Goods, Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "OSIS",
-      "company": "OSI Systems, Inc.",
+      "ticker": "GFI",
+      "company": "Gold Fields",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "GRRR",
+      "company": "Gorilla Technology Group",
       "session": "AMC",
-      "reason": "barrier"
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "MZTI",
+      "company": "The Marzetti Company",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "PICS",
+      "company": "PicPay (PicS N.V.)",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "TUYA",
+      "company": "Tuya",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "VIPS",
+      "company": "Vipshop Holdings",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "WDS",
+      "company": "Woodside Energy Group",
+      "session": "BMO",
+      "reason": "below_threshold"
     }
   ]
 }
