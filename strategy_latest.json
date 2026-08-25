@@ -1,84 +1,126 @@
 {
-  "report_date": "2026-08-24",
-  "built_at_utc": "2026-08-24T19:17:39+00:00",
+  "report_date": "2026-08-25",
+  "built_at_utc": "2026-08-25T19:17:40+00:00",
   "window": {
-    "before_open_session": "2026-08-24",
+    "before_open_session": "2026-08-25",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "BMO",
-      "company": "Bank of Montreal",
+      "ticker": "ANF",
+      "company": "Abercrombie & Fitch",
       "session": "BMO",
       "side": 1,
-      "dir_use": 36.0,
-      "rev_use": 35.0,
-      "mom_aligned": -0.295,
+      "dir_use": 37.7,
+      "rev_use": 39.7,
+      "mom_aligned": -0.596,
+      "old_weight": 0.0195,
+      "mom_weight": 0.0118,
+      "no_data": false
+    },
+    {
+      "ticker": "DCI",
+      "company": "Donaldson",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 42.7,
+      "rev_use": 28.7,
+      "mom_aligned": -0.492,
       "old_weight": 0.5,
-      "mom_weight": 0.5533,
+      "mom_weight": 0.7493,
+      "no_data": false
+    },
+    {
+      "ticker": "SJM",
+      "company": "J.M. Smucker",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 39.0,
+      "rev_use": 35.0,
+      "mom_aligned": 0.41,
+      "old_weight": 0.4805,
+      "mom_weight": 0.239,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "BNS",
-      "company": "Bank of Nova Scotia",
+      "ticker": "BBWI",
+      "company": "Bath & Body Works",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "BZ",
-      "company": "Kanzhun",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "DKS",
-      "company": "DICK'S Sporting Goods, Inc.",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "GFI",
-      "company": "Gold Fields",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "GRRR",
-      "company": "Gorilla Technology Group",
+      "ticker": "BOX",
+      "company": "Box",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "MZTI",
-      "company": "The Marzetti Company",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "PICS",
-      "company": "PicPay (PicS N.V.)",
+      "ticker": "HEI",
+      "company": "HEICO",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "TUYA",
-      "company": "Tuya",
+      "ticker": "INTU",
+      "company": "Intuit",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "VIPS",
-      "company": "Vipshop Holdings",
+      "ticker": "KSS",
+      "company": "Kohl's",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "WDS",
-      "company": "Woodside Energy Group",
+      "ticker": "LI",
+      "company": "Li Auto ADR",
       "session": "BMO",
       "reason": "below_threshold"
+    },
+    {
+      "ticker": "NCNO",
+      "company": "nCino",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "PLAB",
+      "company": "Photronics",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "SFL",
+      "company": "SFL Corporation",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "SMTC",
+      "company": "Semtech",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "WSM",
+      "company": "Williams-Sonoma",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "ZM",
+      "company": "Zoom Communications",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "DY",
+      "company": "Dycom Industries",
+      "session": "BMO",
+      "reason": "barrier"
     }
   ]
 }
