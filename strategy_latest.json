@@ -1,124 +1,190 @@
 {
-  "report_date": "2026-08-25",
-  "built_at_utc": "2026-08-25T19:17:40+00:00",
+  "report_date": "2026-08-26",
+  "built_at_utc": "2026-08-26T21:14:21+00:00",
   "window": {
-    "before_open_session": "2026-08-25",
+    "before_open_session": "2026-08-26",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "ANF",
-      "company": "Abercrombie & Fitch",
-      "session": "BMO",
+      "ticker": "A",
+      "company": "Agilent Technologies",
+      "session": "AMC",
       "side": 1,
-      "dir_use": 37.7,
-      "rev_use": 39.7,
-      "mom_aligned": -0.596,
-      "old_weight": 0.0195,
-      "mom_weight": 0.0118,
+      "dir_use": 42.0,
+      "rev_use": 34.0,
+      "mom_aligned": 4.562,
+      "old_weight": 0.3231,
+      "mom_weight": 0.4963,
       "no_data": false
     },
     {
-      "ticker": "DCI",
-      "company": "Donaldson",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 42.7,
-      "rev_use": 28.7,
-      "mom_aligned": -0.492,
-      "old_weight": 0.5,
-      "mom_weight": 0.7493,
-      "no_data": false
-    },
-    {
-      "ticker": "SJM",
-      "company": "J.M. Smucker",
+      "ticker": "DG",
+      "company": "Dollar General",
       "session": "BMO",
       "side": 1,
       "dir_use": 39.0,
-      "rev_use": 35.0,
-      "mom_aligned": 0.41,
-      "old_weight": 0.4805,
-      "mom_weight": 0.239,
+      "rev_use": 38.0,
+      "mom_aligned": -1.018,
+      "old_weight": 0.0615,
+      "mom_weight": 0.0342,
+      "no_data": false
+    },
+    {
+      "ticker": "DLTR",
+      "company": "Dollar Tree",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 47.0,
+      "rev_use": 39.0,
+      "mom_aligned": -2.076,
+      "old_weight": 0.0923,
+      "mom_weight": 0.0296,
+      "no_data": false
+    },
+    {
+      "ticker": "HPQ",
+      "company": "HP Inc.",
+      "session": "AMC",
+      "side": -1,
+      "dir_use": -36.0,
+      "rev_use": 38.0,
+      "mom_aligned": 2.872,
+      "old_weight": 0.0154,
+      "mom_weight": 0.0424,
+      "no_data": false
+    },
+    {
+      "ticker": "HQY",
+      "company": "HealthEquity",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 44.0,
+      "rev_use": 34.0,
+      "mom_aligned": 0.569,
+      "old_weight": 0.4154,
+      "mom_weight": 0.1539,
+      "no_data": false
+    },
+    {
+      "ticker": "VEEV",
+      "company": "Veeva Systems",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 41.0,
+      "rev_use": 38.0,
+      "mom_aligned": 7.059,
+      "old_weight": 0.0923,
+      "mom_weight": 0.2436,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "BBWI",
-      "company": "Bath & Body Works",
+      "ticker": "BBY",
+      "company": "Best Buy",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "BOX",
-      "company": "Box",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "HEI",
-      "company": "HEICO",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "INTU",
-      "company": "Intuit",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "KSS",
-      "company": "Kohl's",
+      "ticker": "BILI",
+      "company": "Bilibili ADR",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "LI",
-      "company": "Li Auto ADR",
+      "ticker": "CM",
+      "company": "Canadian Imperial Bank of Commerce",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "NCNO",
-      "company": "nCino",
+      "ticker": "CRM",
+      "company": "Salesforce",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "PLAB",
-      "company": "Photronics",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "SFL",
-      "company": "SFL Corporation",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "SMTC",
-      "company": "Semtech",
+      "ticker": "CRWD",
+      "company": "CrowdStrike",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "WSM",
-      "company": "Williams-Sonoma",
+      "ticker": "CSIQ",
+      "company": "Canadian Solar",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "ZM",
-      "company": "Zoom Communications",
+      "ticker": "DOO",
+      "company": "BRP ADR",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "HRL",
+      "company": "Hormel Foods",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "MBUU",
+      "company": "Malibu Boats",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "NTNX",
+      "company": "Nutanix",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "DY",
-      "company": "Dycom Industries",
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "OKTA",
+      "company": "Okta",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "P",
+      "company": "Everpure",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "RY",
+      "company": "Royal Bank of Canada",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "SNPS",
+      "company": "Synopsys",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "TD",
+      "company": "Toronto-Dominion Bank",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "URBN",
+      "company": "Urban Outfitters",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "BURL",
+      "company": "Burlington Stores",
       "session": "BMO",
       "reason": "barrier"
     }
