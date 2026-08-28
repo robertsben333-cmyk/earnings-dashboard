@@ -1,192 +1,144 @@
 {
-  "report_date": "2026-08-26",
-  "built_at_utc": "2026-08-26T21:14:21+00:00",
+  "report_date": "2026-08-27",
+  "built_at_utc": "2026-08-28T02:20:40+00:00",
   "window": {
-    "before_open_session": "2026-08-26",
+    "before_open_session": "2026-08-27",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "A",
-      "company": "Agilent Technologies",
+      "ticker": "ADSK",
+      "company": "Autodesk",
       "session": "AMC",
       "side": 1,
-      "dir_use": 42.0,
-      "rev_use": 34.0,
-      "mom_aligned": 4.562,
-      "old_weight": 0.3231,
-      "mom_weight": 0.4963,
+      "dir_use": 40.0,
+      "rev_use": 36.0,
+      "mom_aligned": 2.844,
+      "old_weight": 0.1342,
+      "mom_weight": 0.3183,
       "no_data": false
     },
     {
-      "ticker": "DG",
-      "company": "Dollar General",
+      "ticker": "BWLP",
+      "company": "BW LPG",
       "session": "BMO",
       "side": 1,
       "dir_use": 39.0,
-      "rev_use": 38.0,
-      "mom_aligned": -1.018,
-      "old_weight": 0.0615,
-      "mom_weight": 0.0342,
+      "rev_use": 39.0,
+      "mom_aligned": -2.574,
+      "old_weight": 0.0268,
+      "mom_weight": 0.0289,
       "no_data": false
     },
     {
-      "ticker": "DLTR",
-      "company": "Dollar Tree",
+      "ticker": "HAFN",
+      "company": "Hafnia",
       "session": "BMO",
       "side": 1,
-      "dir_use": 47.0,
-      "rev_use": 39.0,
-      "mom_aligned": -2.076,
-      "old_weight": 0.0923,
-      "mom_weight": 0.0296,
+      "dir_use": 36.0,
+      "rev_use": 36.0,
+      "mom_aligned": 4.348,
+      "old_weight": 0.0268,
+      "mom_weight": 0.0578,
       "no_data": false
     },
     {
-      "ticker": "HPQ",
-      "company": "HP Inc.",
+      "ticker": "MNSO",
+      "company": "MINISO Group",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 43.0,
+      "rev_use": 35.0,
+      "mom_aligned": -1.365,
+      "old_weight": 0.2685,
+      "mom_weight": 0.2045,
+      "no_data": false
+    },
+    {
+      "ticker": "PD",
+      "company": "PagerDuty",
       "session": "AMC",
       "side": -1,
-      "dir_use": -36.0,
-      "rev_use": 38.0,
-      "mom_aligned": 2.872,
-      "old_weight": 0.0154,
-      "mom_weight": 0.0424,
+      "dir_use": -44.0,
+      "rev_use": 37.0,
+      "mom_aligned": -1.235,
+      "old_weight": 0.1812,
+      "mom_weight": 0.1301,
       "no_data": false
     },
     {
-      "ticker": "HQY",
-      "company": "HealthEquity",
-      "session": "BMO",
+      "ticker": "ULTA",
+      "company": "Ulta Beauty",
+      "session": "AMC",
       "side": 1,
       "dir_use": 44.0,
       "rev_use": 34.0,
-      "mom_aligned": 0.569,
-      "old_weight": 0.4154,
-      "mom_weight": 0.1539,
-      "no_data": false
-    },
-    {
-      "ticker": "VEEV",
-      "company": "Veeva Systems",
-      "session": "AMC",
-      "side": 1,
-      "dir_use": 41.0,
-      "rev_use": 38.0,
-      "mom_aligned": 7.059,
-      "old_weight": 0.0923,
-      "mom_weight": 0.2436,
+      "mom_aligned": -2.31,
+      "old_weight": 0.3624,
+      "mom_weight": 0.2603,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "BBY",
-      "company": "Best Buy",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "BILI",
-      "company": "Bilibili ADR",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "CM",
-      "company": "Canadian Imperial Bank of Commerce",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "CRM",
-      "company": "Salesforce",
+      "ticker": "AFRM",
+      "company": "Affirm",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CRWD",
-      "company": "CrowdStrike",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "CSIQ",
-      "company": "Canadian Solar",
+      "ticker": "CHA",
+      "company": "Chagee Holdings",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "DOO",
-      "company": "BRP ADR",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "HRL",
-      "company": "Hormel Foods",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "MBUU",
-      "company": "Malibu Boats",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "NTNX",
-      "company": "Nutanix",
+      "ticker": "ESTC",
+      "company": "Elastic",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "OKTA",
-      "company": "Okta",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "P",
-      "company": "Everpure",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "RY",
-      "company": "Royal Bank of Canada",
+      "ticker": "FRO",
+      "company": "Frontline",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "SNPS",
-      "company": "Synopsys",
+      "ticker": "GAP",
+      "company": "Gap Inc.",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "TD",
-      "company": "Toronto-Dominion Bank",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "URBN",
-      "company": "Urban Outfitters",
+      "ticker": "IREN",
+      "company": "IREN Limited",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "BURL",
-      "company": "Burlington Stores",
-      "session": "BMO",
-      "reason": "barrier"
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "RBRK",
+      "company": "Rubrik",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "S",
+      "company": "SentinelOne",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "WDAY",
+      "company": "Workday",
+      "session": "AMC",
+      "reason": "below_threshold"
     }
   ]
 }
