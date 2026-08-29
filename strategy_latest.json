@@ -1,6 +1,6 @@
 {
   "report_date": "2026-08-27",
-  "built_at_utc": "2026-08-28T02:20:40+00:00",
+  "built_at_utc": "2026-08-29T01:54:54+00:00",
   "window": {
     "before_open_session": "2026-08-27",
     "after_close_session": null
@@ -13,9 +13,9 @@
       "side": 1,
       "dir_use": 40.0,
       "rev_use": 36.0,
-      "mom_aligned": 2.844,
-      "old_weight": 0.1342,
-      "mom_weight": 0.3183,
+      "mom_aligned": -0.425,
+      "old_weight": 0.5,
+      "mom_weight": 0.33,
       "no_data": false
     },
     {
@@ -25,9 +25,9 @@
       "side": 1,
       "dir_use": 39.0,
       "rev_use": 39.0,
-      "mom_aligned": -2.574,
-      "old_weight": 0.0268,
-      "mom_weight": 0.0289,
+      "mom_aligned": 3.145,
+      "old_weight": 0.25,
+      "mom_weight": 0.2233,
       "no_data": false
     },
     {
@@ -37,45 +37,9 @@
       "side": 1,
       "dir_use": 36.0,
       "rev_use": 36.0,
-      "mom_aligned": 4.348,
-      "old_weight": 0.0268,
-      "mom_weight": 0.0578,
-      "no_data": false
-    },
-    {
-      "ticker": "MNSO",
-      "company": "MINISO Group",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 43.0,
-      "rev_use": 35.0,
-      "mom_aligned": -1.365,
-      "old_weight": 0.2685,
-      "mom_weight": 0.2045,
-      "no_data": false
-    },
-    {
-      "ticker": "PD",
-      "company": "PagerDuty",
-      "session": "AMC",
-      "side": -1,
-      "dir_use": -44.0,
-      "rev_use": 37.0,
-      "mom_aligned": -1.235,
-      "old_weight": 0.1812,
-      "mom_weight": 0.1301,
-      "no_data": false
-    },
-    {
-      "ticker": "ULTA",
-      "company": "Ulta Beauty",
-      "session": "AMC",
-      "side": 1,
-      "dir_use": 44.0,
-      "rev_use": 34.0,
-      "mom_aligned": -2.31,
-      "old_weight": 0.3624,
-      "mom_weight": 0.2603,
+      "mom_aligned": 7.614,
+      "old_weight": 0.25,
+      "mom_weight": 0.4467,
       "no_data": false
     }
   ],
@@ -139,6 +103,24 @@
       "company": "Workday",
       "session": "AMC",
       "reason": "below_threshold"
+    },
+    {
+      "ticker": "MNSO",
+      "company": "MINISO Group",
+      "session": "BMO",
+      "reason": "barrier"
+    },
+    {
+      "ticker": "PD",
+      "company": "PagerDuty",
+      "session": "AMC",
+      "reason": "barrier"
+    },
+    {
+      "ticker": "ULTA",
+      "company": "Ulta Beauty",
+      "session": "AMC",
+      "reason": "barrier"
     }
   ]
 }
