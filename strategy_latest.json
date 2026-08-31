@@ -1,126 +1,54 @@
 {
-  "report_date": "2026-08-27",
-  "built_at_utc": "2026-08-30T21:35:12+00:00",
+  "report_date": "2026-08-31",
+  "built_at_utc": "2026-08-31T23:01:58+00:00",
   "window": {
-    "before_open_session": "2026-08-27",
+    "before_open_session": "2026-08-31",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "ADSK",
-      "company": "Autodesk",
-      "session": "AMC",
+      "ticker": "MDT",
+      "company": "Medtronic plc",
+      "session": "BMO",
       "side": 1,
-      "dir_use": 40.0,
-      "rev_use": 36.0,
-      "mom_aligned": -0.425,
+      "dir_use": 42.0,
+      "rev_use": 38.0,
+      "mom_aligned": 1.237,
       "old_weight": 0.5,
-      "mom_weight": 0.33,
-      "no_data": false
-    },
-    {
-      "ticker": "BWLP",
-      "company": "BW LPG",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 39.0,
-      "rev_use": 39.0,
-      "mom_aligned": 3.145,
-      "old_weight": 0.25,
-      "mom_weight": 0.2233,
-      "no_data": false
-    },
-    {
-      "ticker": "HAFN",
-      "company": "Hafnia",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 36.0,
-      "rev_use": 36.0,
-      "mom_aligned": 7.614,
-      "old_weight": 0.25,
-      "mom_weight": 0.4467,
+      "mom_weight": 0.4193,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "AFRM",
-      "company": "Affirm",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "CHA",
-      "company": "Chagee Holdings",
+      "ticker": "MMED",
+      "company": "MiniMed Group, Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "ESTC",
-      "company": "Elastic",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "FRO",
-      "company": "Frontline",
+      "ticker": "NIO",
+      "company": "NIO Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "GAP",
-      "company": "Gap Inc.",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "IREN",
-      "company": "IREN Limited",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "RBRK",
-      "company": "Rubrik",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "S",
-      "company": "SentinelOne",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "WDAY",
-      "company": "Workday",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "MNSO",
-      "company": "MINISO Group",
+      "ticker": "RZLV",
+      "company": "Rezolve AI plc",
       "session": "BMO",
-      "reason": "barrier"
+      "reason": "below_threshold"
     },
     {
-      "ticker": "PD",
-      "company": "PagerDuty",
-      "session": "AMC",
-      "reason": "barrier"
+      "ticker": "SSL",
+      "company": "Sasol Limited",
+      "session": "BMO",
+      "reason": "below_threshold"
     },
     {
-      "ticker": "ULTA",
-      "company": "Ulta Beauty",
-      "session": "AMC",
-      "reason": "barrier"
+      "ticker": "YEXT",
+      "company": "Yext, Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
     }
   ]
 }
