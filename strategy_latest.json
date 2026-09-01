@@ -1,53 +1,71 @@
 {
-  "report_date": "2026-08-31",
-  "built_at_utc": "2026-08-31T23:01:58+00:00",
+  "report_date": "2026-09-01",
+  "built_at_utc": "2026-09-01T21:20:24+00:00",
   "window": {
-    "before_open_session": "2026-08-31",
+    "before_open_session": "2026-09-01",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "MDT",
-      "company": "Medtronic plc",
+      "ticker": "OLLI",
+      "company": "Ollie's Bargain Outlet Holdings, Inc.",
       "session": "BMO",
       "side": 1,
-      "dir_use": 42.0,
-      "rev_use": 38.0,
-      "mom_aligned": 1.237,
+      "dir_use": 40.0,
+      "rev_use": 34.0,
+      "mom_aligned": 0.746,
       "old_weight": 0.5,
-      "mom_weight": 0.4193,
+      "mom_weight": 0.598,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "MMED",
-      "company": "MiniMed Group, Inc.",
+      "ticker": "BF.B",
+      "company": "Brown-Forman Corporation",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "NIO",
-      "company": "NIO Inc.",
+      "ticker": "CRDO",
+      "company": "Credo Technology Group Holding Ltd",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "CXM",
+      "company": "Sprinklr, Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "RZLV",
-      "company": "Rezolve AI plc",
+      "ticker": "DELL",
+      "company": "Dell Technologies Inc.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "GIII",
+      "company": "G-III Apparel Group, Ltd.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "SSL",
-      "company": "Sasol Limited",
-      "session": "BMO",
+      "ticker": "GTLB",
+      "company": "GitLab Inc.",
+      "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "YEXT",
-      "company": "Yext, Inc.",
-      "session": "BMO",
+      "ticker": "MDB",
+      "company": "MongoDB, Inc.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks, Inc.",
+      "session": "AMC",
       "reason": "below_threshold"
     }
   ]
