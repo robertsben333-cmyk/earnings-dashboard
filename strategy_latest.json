@@ -1,70 +1,160 @@
 {
-  "report_date": "2026-09-01",
-  "built_at_utc": "2026-09-01T21:20:24+00:00",
+  "report_date": "2026-09-02",
+  "built_at_utc": "2026-09-02T21:17:46+00:00",
   "window": {
-    "before_open_session": "2026-09-01",
+    "before_open_session": "2026-09-02",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "OLLI",
-      "company": "Ollie's Bargain Outlet Holdings, Inc.",
+      "ticker": "AGX",
+      "company": "Argan, Inc.",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 48.7,
+      "rev_use": 31.0,
+      "mom_aligned": 4.902,
+      "old_weight": 0.4345,
+      "mom_weight": 0.6156,
+      "no_data": false
+    },
+    {
+      "ticker": "BRC",
+      "company": "Brady Corporation",
       "session": "BMO",
       "side": 1,
-      "dir_use": 40.0,
-      "rev_use": 34.0,
-      "mom_aligned": 0.746,
-      "old_weight": 0.5,
-      "mom_weight": 0.598,
+      "dir_use": 45.0,
+      "rev_use": 32.0,
+      "mom_aligned": -0.518,
+      "old_weight": 0.2819,
+      "mom_weight": 0.1192,
+      "no_data": false
+    },
+    {
+      "ticker": "CPB",
+      "company": "The Campbell's Company",
+      "session": "BMO",
+      "side": -1,
+      "dir_use": -41.7,
+      "rev_use": 36.3,
+      "mom_aligned": -1.511,
+      "old_weight": 0.0874,
+      "mom_weight": 0.0451,
+      "no_data": false
+    },
+    {
+      "ticker": "FIVE",
+      "company": "Five Below, Inc.",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 43.0,
+      "rev_use": 35.7,
+      "mom_aligned": 3.497,
+      "old_weight": 0.1212,
+      "mom_weight": 0.1655,
+      "no_data": false
+    },
+    {
+      "ticker": "HPE",
+      "company": "Hewlett Packard Enterprise",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 39.65,
+      "rev_use": 38.65,
+      "mom_aligned": -1.964,
+      "old_weight": 0.0221,
+      "mom_weight": 0.0137,
+      "no_data": false
+    },
+    {
+      "ticker": "TTC",
+      "company": "The Toro Company",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 38.0,
+      "rev_use": 35.0,
+      "mom_aligned": 1.37,
+      "old_weight": 0.0529,
+      "mom_weight": 0.0408,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "BF.B",
-      "company": "Brown-Forman Corporation",
+      "ticker": "AI",
+      "company": "C3.ai, Inc.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom Inc.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "CIEN",
+      "company": "Ciena Corporation",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CRDO",
-      "company": "Credo Technology Group Holding Ltd",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "CXM",
-      "company": "Sprinklr, Inc.",
+      "ticker": "DOO",
+      "company": "BRP",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "DELL",
-      "company": "Dell Technologies Inc.",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "GIII",
-      "company": "G-III Apparel Group, Ltd.",
+      "ticker": "MOMO",
+      "company": "Hello Group",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "GTLB",
-      "company": "GitLab Inc.",
+      "ticker": "NTAP",
+      "company": "NetApp, Inc.",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "MDB",
-      "company": "MongoDB, Inc.",
+      "ticker": "NTSK",
+      "company": "Netskope, Inc.",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "PANW",
-      "company": "Palo Alto Networks, Inc.",
+      "ticker": "PHR",
+      "company": "Phreesia",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "PVH",
+      "company": "PVH Corp.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "SNOW",
+      "company": "Snowflake Inc.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "VSXY",
+      "company": "Victoria's Secret & Co.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "WLY",
+      "company": "Wiley",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "WOOF",
+      "company": "Petco Health and Wellness Company",
       "session": "AMC",
       "reason": "below_threshold"
     }
