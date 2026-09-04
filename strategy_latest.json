@@ -1,90 +1,29 @@
 {
-  "report_date": "2026-09-03",
-  "built_at_utc": "2026-09-03T21:20:40+00:00",
+  "report_date": "2026-09-04",
+  "built_at_utc": "2026-09-04T21:02:55+00:00",
   "window": {
-    "before_open_session": "2026-09-03",
+    "before_open_session": "2026-09-04",
     "after_close_session": null
   },
-  "invest": [
-    {
-      "ticker": "DOCU",
-      "company": "Docusign",
-      "session": "AMC",
-      "side": 1,
-      "dir_use": 36.0,
-      "rev_use": 36.0,
-      "mom_aligned": 7.231,
-      "old_weight": 0.5,
-      "mom_weight": 0.3244,
-      "no_data": false
-    },
-    {
-      "ticker": "SWBI",
-      "company": "Smith & Wesson Brands",
-      "session": "AMC",
-      "side": 1,
-      "dir_use": 46.7,
-      "rev_use": 36.0,
-      "mom_aligned": 5.158,
-      "old_weight": 0.5,
-      "mom_weight": 0.6756,
-      "no_data": false
-    }
-  ],
+  "invest": [],
   "screened": [
     {
-      "ticker": "AMBA",
-      "company": "Ambarella",
-      "session": "AMC",
+      "ticker": "ABM",
+      "company": "ABM Industries Incorporated",
+      "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "ASAN",
-      "company": "Asana",
-      "session": "AMC",
+      "ticker": "CAN",
+      "company": "Canaan Inc.",
+      "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "IOT",
-      "company": "Samsara",
-      "session": "AMC",
+      "ticker": "UNFI",
+      "company": "United Natural Foods, Inc.",
+      "session": "BMO",
       "reason": "below_threshold"
-    },
-    {
-      "ticker": "LULU",
-      "company": "lululemon athletica",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "OXM",
-      "company": "Oxford Industries",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "PATH",
-      "company": "UiPath",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "PL",
-      "company": "Planet Labs PBC",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "ZS",
-      "company": "Zscaler",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "GWRE",
-      "company": "Guidewire Software",
-      "session": "AMC",
-      "reason": "barrier"
     }
   ]
 }
