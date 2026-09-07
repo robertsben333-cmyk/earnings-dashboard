@@ -1,11 +1,60 @@
 {
-  "report_date": "2026-09-04",
-  "built_at_utc": "2026-09-06T20:50:47+00:00",
+  "report_date": "2026-09-07",
+  "built_at_utc": "2026-09-07T21:47:07+00:00",
   "window": {
-    "before_open_session": "2026-09-04",
+    "before_open_session": "2026-09-08",
     "after_close_session": null
   },
-  "invest": [],
+  "invest": [
+    {
+      "ticker": "ASO",
+      "company": "Academy Sports + Outdoors",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 45.0,
+      "rev_use": 36.0,
+      "mom_aligned": 3.073,
+      "old_weight": 0.3306,
+      "mom_weight": 0.2582,
+      "no_data": false
+    },
+    {
+      "ticker": "KFY",
+      "company": "Korn Ferry",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 38.0,
+      "rev_use": 33.0,
+      "mom_aligned": 0.67,
+      "old_weight": 0.1736,
+      "mom_weight": 0.2475,
+      "no_data": false
+    },
+    {
+      "ticker": "SIG",
+      "company": "Signet Jewelers",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 45.0,
+      "rev_use": 38.0,
+      "mom_aligned": 5.654,
+      "old_weight": 0.1653,
+      "mom_weight": 0.1291,
+      "no_data": false
+    },
+    {
+      "ticker": "SUNB",
+      "company": "Sunbelt Rentals Holdings",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 40.0,
+      "rev_use": 32.0,
+      "mom_aligned": 2.235,
+      "old_weight": 0.3306,
+      "mom_weight": 0.3652,
+      "no_data": false
+    }
+  ],
   "screened": [
     {
       "ticker": "ABM",
@@ -14,9 +63,69 @@
       "reason": "below_threshold"
     },
     {
+      "ticker": "AVO",
+      "company": "Mission Produce",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "BRZE",
+      "company": "Braze",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
       "ticker": "CAN",
       "company": "Canaan Inc.",
       "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "CASY",
+      "company": "Casey's General Stores",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "CHWY",
+      "company": "Chewy",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "CNM",
+      "company": "Core & Main",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "GME",
+      "company": "GameStop",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "JMKE",
+      "company": "Jersey Mike's Subs",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "ODD",
+      "company": "ODDITY Tech",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "SAIL",
+      "company": "SailPoint",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "TTAN",
+      "company": "ServiceTitan",
+      "session": "AMC",
       "reason": "below_threshold"
     },
     {
