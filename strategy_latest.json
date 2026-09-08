@@ -1,9 +1,9 @@
 {
-  "report_date": "2026-09-07",
-  "built_at_utc": "2026-09-07T21:47:07+00:00",
+  "report_date": "2026-09-08",
+  "built_at_utc": "2026-09-08T21:25:50+00:00",
   "window": {
-    "before_open_session": "2026-09-08",
-    "after_close_session": null
+    "before_open_session": "2026-09-09",
+    "after_close_session": "2026-09-08"
   },
   "invest": [
     {
@@ -11,11 +11,23 @@
       "company": "Academy Sports + Outdoors",
       "session": "BMO",
       "side": 1,
-      "dir_use": 45.0,
-      "rev_use": 36.0,
-      "mom_aligned": 3.073,
-      "old_weight": 0.3306,
-      "mom_weight": 0.2582,
+      "dir_use": 46.85,
+      "rev_use": 36.15,
+      "mom_aligned": 2.358,
+      "old_weight": 0.5,
+      "mom_weight": 0.502,
+      "no_data": false
+    },
+    {
+      "ticker": "CAL",
+      "company": "Caleres",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 40.0,
+      "rev_use": 39.0,
+      "mom_aligned": -0.661,
+      "old_weight": 0.1479,
+      "mom_weight": 0.098,
       "no_data": false
     },
     {
@@ -23,45 +35,15 @@
       "company": "Korn Ferry",
       "session": "BMO",
       "side": 1,
-      "dir_use": 38.0,
+      "dir_use": 36.7,
       "rev_use": 33.0,
-      "mom_aligned": 0.67,
-      "old_weight": 0.1736,
-      "mom_weight": 0.2475,
-      "no_data": false
-    },
-    {
-      "ticker": "SIG",
-      "company": "Signet Jewelers",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 45.0,
-      "rev_use": 38.0,
-      "mom_aligned": 5.654,
-      "old_weight": 0.1653,
-      "mom_weight": 0.1291,
-      "no_data": false
-    },
-    {
-      "ticker": "SUNB",
-      "company": "Sunbelt Rentals Holdings",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 40.0,
-      "rev_use": 32.0,
-      "mom_aligned": 2.235,
-      "old_weight": 0.3306,
-      "mom_weight": 0.3652,
+      "mom_aligned": -3.405,
+      "old_weight": 0.3521,
+      "mom_weight": 0.4,
       "no_data": false
     }
   ],
   "screened": [
-    {
-      "ticker": "ABM",
-      "company": "ABM Industries Incorporated",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
     {
       "ticker": "AVO",
       "company": "Mission Produce",
@@ -72,12 +54,6 @@
       "ticker": "BRZE",
       "company": "Braze",
       "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "CAN",
-      "company": "Canaan Inc.",
-      "session": "BMO",
       "reason": "below_threshold"
     },
     {
@@ -99,8 +75,8 @@
       "reason": "below_threshold"
     },
     {
-      "ticker": "GME",
-      "company": "GameStop",
+      "ticker": "INNV",
+      "company": "InnovAge Holding",
       "session": "AMC",
       "reason": "below_threshold"
     },
@@ -123,15 +99,21 @@
       "reason": "below_threshold"
     },
     {
-      "ticker": "TTAN",
-      "company": "ServiceTitan",
-      "session": "AMC",
+      "ticker": "SIG",
+      "company": "Signet Jewelers",
+      "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "UNFI",
-      "company": "United Natural Foods, Inc.",
+      "ticker": "SUNB",
+      "company": "Sunbelt Rentals Holdings",
       "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "TTAN",
+      "company": "ServiceTitan",
+      "session": "AMC",
       "reason": "below_threshold"
     }
   ]
