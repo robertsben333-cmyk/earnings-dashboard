@@ -1,6 +1,6 @@
 {
   "report_date": "2026-09-08",
-  "built_at_utc": "2026-09-08T21:25:50+00:00",
+  "built_at_utc": "2026-09-09T21:12:14+00:00",
   "window": {
     "before_open_session": "2026-09-09",
     "after_close_session": "2026-09-08"
@@ -13,7 +13,7 @@
       "side": 1,
       "dir_use": 46.85,
       "rev_use": 36.15,
-      "mom_aligned": 2.358,
+      "mom_aligned": 13.774,
       "old_weight": 0.5,
       "mom_weight": 0.502,
       "no_data": false
@@ -25,21 +25,9 @@
       "side": 1,
       "dir_use": 40.0,
       "rev_use": 39.0,
-      "mom_aligned": -0.661,
-      "old_weight": 0.1479,
-      "mom_weight": 0.098,
-      "no_data": false
-    },
-    {
-      "ticker": "KFY",
-      "company": "Korn Ferry",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 36.7,
-      "rev_use": 33.0,
-      "mom_aligned": -3.405,
-      "old_weight": 0.3521,
-      "mom_weight": 0.4,
+      "mom_aligned": -2.253,
+      "old_weight": 0.5,
+      "mom_weight": 0.3747,
       "no_data": false
     }
   ],
@@ -115,6 +103,12 @@
       "company": "ServiceTitan",
       "session": "AMC",
       "reason": "below_threshold"
+    },
+    {
+      "ticker": "KFY",
+      "company": "Korn Ferry",
+      "session": "BMO",
+      "reason": "barrier"
     }
   ]
 }
