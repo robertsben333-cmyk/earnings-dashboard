@@ -1,114 +1,53 @@
 {
-  "report_date": "2026-09-08",
-  "built_at_utc": "2026-09-09T21:12:14+00:00",
+  "report_date": "2026-09-10",
+  "built_at_utc": "2026-09-10T21:12:30+00:00",
   "window": {
-    "before_open_session": "2026-09-09",
-    "after_close_session": "2026-09-08"
+    "before_open_session": null,
+    "after_close_session": null
   },
-  "invest": [
-    {
-      "ticker": "ASO",
-      "company": "Academy Sports + Outdoors",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 46.85,
-      "rev_use": 36.15,
-      "mom_aligned": 13.774,
-      "old_weight": 0.5,
-      "mom_weight": 0.502,
-      "no_data": false
-    },
-    {
-      "ticker": "CAL",
-      "company": "Caleres",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 40.0,
-      "rev_use": 39.0,
-      "mom_aligned": -2.253,
-      "old_weight": 0.5,
-      "mom_weight": 0.3747,
-      "no_data": false
-    }
-  ],
+  "invest": [],
   "screened": [
     {
-      "ticker": "AVO",
-      "company": "Mission Produce",
+      "ticker": "ADBE",
+      "company": "Adobe",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "BRZE",
-      "company": "Braze",
+      "ticker": "CPRT",
+      "company": "Copart",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CASY",
-      "company": "Casey's General Stores",
+      "ticker": "DSGX",
+      "company": "Descartes Systems Group",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CHWY",
-      "company": "Chewy",
+      "ticker": "KR",
+      "company": "Kroger",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CNM",
-      "company": "Core & Main",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "INNV",
-      "company": "InnovAge Holding",
+      "ticker": "ORCL",
+      "company": "Oracle",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "JMKE",
-      "company": "Jersey Mike's Subs",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "ODD",
-      "company": "ODDITY Tech",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "SAIL",
-      "company": "SailPoint",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "SIG",
-      "company": "Signet Jewelers",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "SUNB",
-      "company": "Sunbelt Rentals Holdings",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "TTAN",
-      "company": "ServiceTitan",
+      "ticker": "RH",
+      "company": "RH",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "KFY",
-      "company": "Korn Ferry",
-      "session": "BMO",
-      "reason": "barrier"
+      "ticker": "ZUMZ",
+      "company": "Zumiez",
+      "session": "AMC",
+      "reason": "below_threshold"
     }
   ]
 }
