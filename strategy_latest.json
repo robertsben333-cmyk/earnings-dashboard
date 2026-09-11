@@ -1,52 +1,35 @@
 {
-  "report_date": "2026-09-10",
-  "built_at_utc": "2026-09-10T21:12:30+00:00",
+  "report_date": "2026-09-11",
+  "built_at_utc": "2026-09-11T21:18:34+00:00",
   "window": {
-    "before_open_session": null,
-    "after_close_session": null
+    "before_open_session": "2026-09-14",
+    "after_close_session": "2026-09-11"
   },
-  "invest": [],
+  "invest": [
+    {
+      "ticker": "RFIL",
+      "company": "RF Industries, Ltd.",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 40.5,
+      "rev_use": 37.5,
+      "mom_aligned": 1.765,
+      "old_weight": 0.5,
+      "mom_weight": 0.4417,
+      "no_data": false
+    }
+  ],
   "screened": [
     {
-      "ticker": "ADBE",
-      "company": "Adobe",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "CPRT",
-      "company": "Copart",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "DSGX",
-      "company": "Descartes Systems Group",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "KR",
-      "company": "Kroger",
+      "ticker": "CODA",
+      "company": "Coda Octopus Group, Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "ORCL",
-      "company": "Oracle",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "RH",
-      "company": "RH",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "ZUMZ",
-      "company": "Zumiez",
-      "session": "AMC",
+      "ticker": "HAIN",
+      "company": "The Hain Celestial Group, Inc.",
+      "session": "BMO",
       "reason": "below_threshold"
     }
   ]
