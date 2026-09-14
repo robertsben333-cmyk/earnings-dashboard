@@ -1,34 +1,58 @@
 {
-  "report_date": "2026-09-11",
-  "built_at_utc": "2026-09-13T21:07:55+00:00",
+  "report_date": "2026-09-14",
+  "built_at_utc": "2026-09-14T22:03:36+00:00",
   "window": {
-    "before_open_session": "2026-09-14",
-    "after_close_session": "2026-09-11"
+    "before_open_session": "2026-09-15",
+    "after_close_session": "2026-09-14"
   },
   "invest": [
     {
-      "ticker": "RFIL",
-      "company": "RF Industries, Ltd.",
+      "ticker": "FPS",
+      "company": "Forgent Power Solutions, Inc.",
       "session": "BMO",
       "side": 1,
-      "dir_use": 40.5,
-      "rev_use": 37.5,
-      "mom_aligned": 2.351,
+      "dir_use": 51.3,
+      "rev_use": 39.0,
+      "mom_aligned": -1.525,
       "old_weight": 0.5,
-      "mom_weight": 0.4417,
+      "mom_weight": 0.3044,
+      "no_data": false
+    },
+    {
+      "ticker": "HITI",
+      "company": "High Tide Inc.",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 47.35,
+      "rev_use": 38.0,
+      "mom_aligned": 5.457,
+      "old_weight": 0.5,
+      "mom_weight": 0.6956,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "CODA",
-      "company": "Coda Octopus Group, Inc.",
-      "session": "BMO",
+      "ticker": "KMTS",
+      "company": "Kestra Medical Technologies, Ltd.",
+      "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "HAIN",
-      "company": "The Hain Celestial Group, Inc.",
+      "ticker": "PLAY",
+      "company": "Dave & Buster's Entertainment, Inc.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "RLGT",
+      "company": "Radiant Logistics, Inc.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "VRA",
+      "company": "Vera Bradley, Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     }
