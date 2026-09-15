@@ -1,59 +1,28 @@
 {
-  "report_date": "2026-09-14",
-  "built_at_utc": "2026-09-14T22:03:36+00:00",
+  "report_date": "2026-09-15",
+  "built_at_utc": "2026-09-15T21:45:55+00:00",
   "window": {
-    "before_open_session": "2026-09-15",
-    "after_close_session": "2026-09-14"
+    "before_open_session": "2026-09-16",
+    "after_close_session": "2026-09-15"
   },
-  "invest": [
-    {
-      "ticker": "FPS",
-      "company": "Forgent Power Solutions, Inc.",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 51.3,
-      "rev_use": 39.0,
-      "mom_aligned": -1.525,
-      "old_weight": 0.5,
-      "mom_weight": 0.3044,
-      "no_data": false
-    },
-    {
-      "ticker": "HITI",
-      "company": "High Tide Inc.",
-      "session": "AMC",
-      "side": 1,
-      "dir_use": 47.35,
-      "rev_use": 38.0,
-      "mom_aligned": 5.457,
-      "old_weight": 0.5,
-      "mom_weight": 0.6956,
-      "no_data": false
-    }
-  ],
+  "invest": [],
   "screened": [
     {
-      "ticker": "KMTS",
-      "company": "Kestra Medical Technologies, Ltd.",
+      "ticker": "EPM",
+      "company": "Evolution Petroleum Corporation",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "PLAY",
-      "company": "Dave & Buster's Entertainment, Inc.",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "RLGT",
-      "company": "Radiant Logistics, Inc.",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "VRA",
-      "company": "Vera Bradley, Inc.",
+      "ticker": "LUXE",
+      "company": "LuxExperience B.V.",
       "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "TCOM",
+      "company": "Trip.com Group Limited",
+      "session": "AMC",
       "reason": "below_threshold"
     }
   ]
