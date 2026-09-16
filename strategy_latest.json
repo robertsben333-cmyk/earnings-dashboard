@@ -1,27 +1,15 @@
 {
-  "report_date": "2026-09-15",
-  "built_at_utc": "2026-09-15T21:45:55+00:00",
+  "report_date": "2026-09-16",
+  "built_at_utc": "2026-09-16T21:43:51+00:00",
   "window": {
-    "before_open_session": "2026-09-16",
-    "after_close_session": "2026-09-15"
+    "before_open_session": "2026-09-17",
+    "after_close_session": "2026-09-16"
   },
   "invest": [],
   "screened": [
     {
-      "ticker": "EPM",
-      "company": "Evolution Petroleum Corporation",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "LUXE",
-      "company": "LuxExperience B.V.",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "TCOM",
-      "company": "Trip.com Group Limited",
+      "ticker": "LEN",
+      "company": "Lennar Corporation",
       "session": "AMC",
       "reason": "below_threshold"
     }
