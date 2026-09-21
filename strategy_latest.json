@@ -1,10 +1,42 @@
 {
-  "report_date": "2026-09-18",
-  "built_at_utc": "2026-09-20T21:03:51+00:00",
+  "report_date": "2026-09-21",
+  "built_at_utc": "2026-09-21T22:14:37+00:00",
   "window": {
-    "before_open_session": "2026-09-18",
+    "before_open_session": "2026-09-21",
     "after_close_session": null
   },
-  "invest": [],
-  "screened": []
+  "invest": [
+    {
+      "ticker": "AZO",
+      "company": "AutoZone",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 36.0,
+      "rev_use": 38.0,
+      "mom_aligned": -1.444,
+      "old_weight": 0.5,
+      "mom_weight": 0.4193,
+      "no_data": false
+    }
+  ],
+  "screened": [
+    {
+      "ticker": "ABVX",
+      "company": "Abivax",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "MLKN",
+      "company": "MillerKnoll",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "THO",
+      "company": "THOR Industries",
+      "session": "BMO",
+      "reason": "below_threshold"
+    }
+  ]
 }
