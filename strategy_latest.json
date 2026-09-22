@@ -1,41 +1,52 @@
 {
-  "report_date": "2026-09-21",
-  "built_at_utc": "2026-09-21T22:14:37+00:00",
+  "report_date": "2026-09-22",
+  "built_at_utc": "2026-09-22T21:40:03+00:00",
   "window": {
-    "before_open_session": "2026-09-21",
-    "after_close_session": null
+    "before_open_session": "2026-09-23",
+    "after_close_session": "2026-09-22"
   },
-  "invest": [
-    {
-      "ticker": "AZO",
-      "company": "AutoZone",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 36.0,
-      "rev_use": 38.0,
-      "mom_aligned": -1.444,
-      "old_weight": 0.5,
-      "mom_weight": 0.4193,
-      "no_data": false
-    }
-  ],
+  "invest": [],
   "screened": [
     {
-      "ticker": "ABVX",
-      "company": "Abivax",
+      "ticker": "CBRL",
+      "company": "Cracker Barrel Old Country Store, Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "CTAS",
+      "company": "Cintas Corporation",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "GIS",
+      "company": "General Mills, Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "KBH",
+      "company": "KB Home",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "MLKN",
-      "company": "MillerKnoll",
+      "ticker": "MANU",
+      "company": "Manchester United plc",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "THO",
-      "company": "THOR Industries",
+      "ticker": "PAYX",
+      "company": "Paychex, Inc.",
       "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "WOR",
+      "company": "Worthington Enterprises, Inc.",
+      "session": "AMC",
       "reason": "below_threshold"
     }
   ]
