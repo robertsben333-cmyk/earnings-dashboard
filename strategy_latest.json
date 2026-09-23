@@ -1,52 +1,41 @@
 {
-  "report_date": "2026-09-22",
-  "built_at_utc": "2026-09-22T21:40:03+00:00",
+  "report_date": "2026-09-23",
+  "built_at_utc": "2026-09-23T21:47:42+00:00",
   "window": {
     "before_open_session": "2026-09-23",
-    "after_close_session": "2026-09-22"
+    "after_close_session": null
   },
-  "invest": [],
+  "invest": [
+    {
+      "ticker": "FUL",
+      "company": "H.B. Fuller Company",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 37.0,
+      "rev_use": 39.0,
+      "mom_aligned": 1.491,
+      "old_weight": 0.5,
+      "mom_weight": 0.4299,
+      "no_data": false
+    }
+  ],
   "screened": [
     {
-      "ticker": "CBRL",
-      "company": "Cracker Barrel Old Country Store, Inc.",
+      "ticker": "DRI",
+      "company": "Darden Restaurants, Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CTAS",
-      "company": "Cintas Corporation",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "GIS",
-      "company": "General Mills, Inc.",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "KBH",
-      "company": "KB Home",
+      "ticker": "SFIX",
+      "company": "Stitch Fix, Inc.",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "MANU",
-      "company": "Manchester United plc",
+      "ticker": "SNX",
+      "company": "TD SYNNEX Corporation",
       "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "PAYX",
-      "company": "Paychex, Inc.",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "WOR",
-      "company": "Worthington Enterprises, Inc.",
-      "session": "AMC",
       "reason": "below_threshold"
     }
   ]
