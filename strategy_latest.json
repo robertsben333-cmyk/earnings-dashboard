@@ -1,29 +1,10 @@
 {
-  "report_date": "2026-09-24",
-  "built_at_utc": "2026-09-24T21:49:28+00:00",
+  "report_date": "2026-09-25",
+  "built_at_utc": "2026-09-25T21:50:42+00:00",
   "window": {
-    "before_open_session": "2026-09-24",
+    "before_open_session": "2026-09-25",
     "after_close_session": null
   },
   "invest": [],
-  "screened": [
-    {
-      "ticker": "COST",
-      "company": "Costco Wholesale Corporation",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "SCHL",
-      "company": "Scholastic Corporation",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "TBN",
-      "company": "Tamboran Resources Corporation",
-      "session": "BMO",
-      "reason": "below_threshold"
-    }
-  ]
+  "screened": []
 }
