@@ -1,10 +1,41 @@
 {
-  "report_date": "2026-09-25",
-  "built_at_utc": "2026-09-28T23:30:45+00:00",
+  "report_date": "2026-09-29",
+  "built_at_utc": "2026-09-29T22:37:29+00:00",
   "window": {
-    "before_open_session": "2026-09-25",
+    "before_open_session": null,
     "after_close_session": null
   },
   "invest": [],
-  "screened": []
+  "screened": [
+    {
+      "ticker": "CAG",
+      "company": "Conagra Brands, Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "CALM",
+      "company": "Cal-Maine Foods, Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "CNXC",
+      "company": "Concentrix Corporation",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "FDS",
+      "company": "FactSet Research Systems Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "JBL",
+      "company": "Jabil Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    }
+  ]
 }
