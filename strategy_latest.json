@@ -1,52 +1,15 @@
 {
-  "report_date": "2026-09-30",
-  "built_at_utc": "2026-09-30T22:38:21+00:00",
+  "report_date": "2026-10-01",
+  "built_at_utc": "2026-10-01T22:55:16+00:00",
   "window": {
     "before_open_session": "2026-10-01",
-    "after_close_session": "2026-09-30"
+    "after_close_session": null
   },
-  "invest": [
-    {
-      "ticker": "AYI",
-      "company": "Acuity Inc.",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 38.5,
-      "rev_use": 38.0,
-      "mom_aligned": 1.475,
-      "old_weight": 0.5,
-      "mom_weight": 0.4193,
-      "no_data": false
-    },
-    {
-      "ticker": "PRGS",
-      "company": "Progress Software",
-      "session": "AMC",
-      "side": 1,
-      "dir_use": 42.0,
-      "rev_use": 35.0,
-      "mom_aligned": -0.979,
-      "old_weight": 0.5,
-      "mom_weight": 0.33,
-      "no_data": false
-    }
-  ],
+  "invest": [],
   "screened": [
     {
-      "ticker": "ACN",
-      "company": "Accenture",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "MKC",
-      "company": "McCormick & Company",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "MU",
-      "company": "Micron Technology",
+      "ticker": "NKE",
+      "company": "NIKE, Inc.",
       "session": "AMC",
       "reason": "below_threshold"
     }
