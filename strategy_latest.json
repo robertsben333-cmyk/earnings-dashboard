@@ -1,35 +1,40 @@
 {
-  "report_date": "2026-10-05",
-  "built_at_utc": "2026-10-06T00:20:40+00:00",
+  "report_date": "2026-10-06",
+  "built_at_utc": "2026-10-06T22:48:04+00:00",
   "window": {
-    "before_open_session": "2026-10-05",
+    "before_open_session": "2026-10-06",
     "after_close_session": null
   },
-  "invest": [
-    {
-      "ticker": "RPM",
-      "company": "RPM International Inc.",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 37.0,
-      "rev_use": 35.0,
-      "mom_aligned": -3.417,
-      "old_weight": 0.5,
-      "mom_weight": 0.5533,
-      "no_data": false
-    }
-  ],
+  "invest": [],
   "screened": [
     {
-      "ticker": "APOG",
-      "company": "Apogee Enterprises, Inc.",
-      "session": "BMO",
+      "ticker": "NEOG",
+      "company": "Neogen Corporation",
+      "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "LW",
-      "company": "Lamb Weston Holdings, Inc.",
-      "session": "BMO",
+      "ticker": "PENG",
+      "company": "Penguin Solutions, Inc.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "SAR",
+      "company": "Saratoga Investment Corp.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "STZ",
+      "company": "Constellation Brands, Inc.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "WS",
+      "company": "Worthington Steel, Inc.",
+      "session": "AMC",
       "reason": "below_threshold"
     }
   ]
