@@ -1,41 +1,59 @@
 {
-  "report_date": "2026-10-06",
-  "built_at_utc": "2026-10-06T22:48:04+00:00",
+  "report_date": "2026-10-07",
+  "built_at_utc": "2026-10-07T23:19:22+00:00",
   "window": {
-    "before_open_session": "2026-10-06",
+    "before_open_session": "2026-10-07",
     "after_close_session": null
   },
   "invest": [],
   "screened": [
     {
-      "ticker": "NEOG",
-      "company": "Neogen Corporation",
+      "ticker": "APLD",
+      "company": "Applied Digital",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "PENG",
-      "company": "Penguin Solutions, Inc.",
-      "session": "AMC",
+      "ticker": "BYRN",
+      "company": "Byrna Technologies",
+      "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "SAR",
-      "company": "Saratoga Investment Corp.",
-      "session": "AMC",
+      "ticker": "HELE",
+      "company": "Helen of Troy",
+      "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "STZ",
-      "company": "Constellation Brands, Inc.",
-      "session": "AMC",
+      "ticker": "NG",
+      "company": "NOVAGOLD Resources Inc.",
+      "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "WS",
-      "company": "Worthington Steel, Inc.",
-      "session": "AMC",
+      "ticker": "PEP",
+      "company": "PepsiCo",
+      "session": "BMO",
       "reason": "below_threshold"
+    },
+    {
+      "ticker": "TLRY",
+      "company": "Tilray Brands",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "ANGO",
+      "company": "AngioDynamics",
+      "session": "BMO",
+      "reason": "barrier"
+    },
+    {
+      "ticker": "LEVI",
+      "company": "Levi Strauss & Co.",
+      "session": "AMC",
+      "reason": "barrier"
     }
   ]
 }
