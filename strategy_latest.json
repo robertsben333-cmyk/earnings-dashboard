@@ -1,59 +1,29 @@
 {
-  "report_date": "2026-10-07",
-  "built_at_utc": "2026-10-07T23:19:22+00:00",
+  "report_date": "2026-10-08",
+  "built_at_utc": "2026-10-08T23:33:40+00:00",
   "window": {
-    "before_open_session": "2026-10-07",
+    "before_open_session": "2026-10-08",
     "after_close_session": null
   },
   "invest": [],
   "screened": [
     {
-      "ticker": "APLD",
-      "company": "Applied Digital",
+      "ticker": "DAL",
+      "company": "Delta Air Lines, Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "ODC",
+      "company": "Oil-Dri Corporation of America",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "BYRN",
-      "company": "Byrna Technologies",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "HELE",
-      "company": "Helen of Troy",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "NG",
-      "company": "NOVAGOLD Resources Inc.",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "PEP",
-      "company": "PepsiCo",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "TLRY",
-      "company": "Tilray Brands",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "ANGO",
-      "company": "AngioDynamics",
-      "session": "BMO",
-      "reason": "barrier"
-    },
-    {
-      "ticker": "LEVI",
-      "company": "Levi Strauss & Co.",
+      "ticker": "PKE",
+      "company": "Park Aerospace Corp.",
       "session": "AMC",
-      "reason": "barrier"
+      "reason": "below_threshold"
     }
   ]
 }
