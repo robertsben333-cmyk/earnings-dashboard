@@ -1,29 +1,10 @@
 {
-  "report_date": "2026-10-08",
-  "built_at_utc": "2026-10-08T23:33:40+00:00",
+  "report_date": "2026-10-09",
+  "built_at_utc": "2026-10-09T22:54:18+00:00",
   "window": {
-    "before_open_session": "2026-10-08",
+    "before_open_session": "2026-10-09",
     "after_close_session": null
   },
   "invest": [],
-  "screened": [
-    {
-      "ticker": "DAL",
-      "company": "Delta Air Lines, Inc.",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "ODC",
-      "company": "Oil-Dri Corporation of America",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "PKE",
-      "company": "Park Aerospace Corp.",
-      "session": "AMC",
-      "reason": "below_threshold"
-    }
-  ]
+  "screened": []
 }
