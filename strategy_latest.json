@@ -1,10 +1,84 @@
 {
-  "report_date": "2026-10-09",
-  "built_at_utc": "2026-10-11T22:28:33+00:00",
+  "report_date": "2026-10-12",
+  "built_at_utc": "2026-10-13T00:58:47+00:00",
   "window": {
-    "before_open_session": "2026-10-09",
+    "before_open_session": "2026-10-12",
     "after_close_session": null
   },
-  "invest": [],
-  "screened": []
+  "invest": [
+    {
+      "ticker": "ACI",
+      "company": "Albertsons Companies, Inc.",
+      "session": "BMO",
+      "side": -1,
+      "dir_use": -43.0,
+      "rev_use": 35.0,
+      "mom_aligned": -2.003,
+      "old_weight": 0.5,
+      "mom_weight": 0.5206,
+      "no_data": false
+    },
+    {
+      "ticker": "JPM",
+      "company": "JPMorgan Chase & Co.",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 39.0,
+      "rev_use": 39.0,
+      "mom_aligned": 0.916,
+      "old_weight": 0.0645,
+      "mom_weight": 0.0736,
+      "no_data": false
+    },
+    {
+      "ticker": "WFC",
+      "company": "Wells Fargo & Company",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 41.0,
+      "rev_use": 35.5,
+      "mom_aligned": 2.175,
+      "old_weight": 0.4355,
+      "mom_weight": 0.4058,
+      "no_data": false
+    }
+  ],
+  "screened": [
+    {
+      "ticker": "C",
+      "company": "Citigroup Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "DPZ",
+      "company": "Domino's Pizza, Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "FBK",
+      "company": "FB Financial Corporation",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "GS",
+      "company": "The Goldman Sachs Group, Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "JNJ",
+      "company": "Johnson & Johnson",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "UNH",
+      "company": "UnitedHealth Group Incorporated",
+      "session": "BMO",
+      "reason": "below_threshold"
+    }
+  ]
 }
