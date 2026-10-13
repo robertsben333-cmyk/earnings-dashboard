@@ -1,82 +1,82 @@
 {
-  "report_date": "2026-10-12",
-  "built_at_utc": "2026-10-13T00:58:47+00:00",
+  "report_date": "2026-10-13",
+  "built_at_utc": "2026-10-13T23:07:42+00:00",
   "window": {
-    "before_open_session": "2026-10-12",
+    "before_open_session": "2026-10-13",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "ACI",
-      "company": "Albertsons Companies, Inc.",
-      "session": "BMO",
-      "side": -1,
-      "dir_use": -43.0,
-      "rev_use": 35.0,
-      "mom_aligned": -2.003,
-      "old_weight": 0.5,
-      "mom_weight": 0.5206,
-      "no_data": false
-    },
-    {
-      "ticker": "JPM",
-      "company": "JPMorgan Chase & Co.",
-      "session": "BMO",
+      "ticker": "AZZ",
+      "company": "AZZ Inc.",
+      "session": "AMC",
       "side": 1,
-      "dir_use": 39.0,
-      "rev_use": 39.0,
-      "mom_aligned": 0.916,
-      "old_weight": 0.0645,
-      "mom_weight": 0.0736,
+      "dir_use": 41.5,
+      "rev_use": 37.0,
+      "mom_aligned": 2.653,
+      "old_weight": 0.1114,
+      "mom_weight": 0.2753,
       "no_data": false
     },
     {
-      "ticker": "WFC",
-      "company": "Wells Fargo & Company",
+      "ticker": "BLK",
+      "company": "BlackRock, Inc.",
       "session": "BMO",
       "side": 1,
       "dir_use": 41.0,
-      "rev_use": 35.5,
-      "mom_aligned": 2.175,
-      "old_weight": 0.4355,
-      "mom_weight": 0.4058,
+      "rev_use": 37.0,
+      "mom_aligned": -1.191,
+      "old_weight": 0.1029,
+      "mom_weight": 0.1129,
+      "no_data": false
+    },
+    {
+      "ticker": "MS",
+      "company": "Morgan Stanley",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 45.0,
+      "rev_use": 35.0,
+      "mom_aligned": -1.621,
+      "old_weight": 0.2857,
+      "mom_weight": 0.243,
+      "no_data": false
+    },
+    {
+      "ticker": "STT",
+      "company": "State Street Corporation",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 51.0,
+      "rev_use": 34.0,
+      "mom_aligned": -0.492,
+      "old_weight": 0.5,
+      "mom_weight": 0.3688,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "C",
-      "company": "Citigroup Inc.",
+      "ticker": "ASML",
+      "company": "ASML Holding N.V.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "DPZ",
-      "company": "Domino's Pizza, Inc.",
+      "ticker": "BAC",
+      "company": "Bank of America Corporation",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "FBK",
-      "company": "FB Financial Corporation",
+      "ticker": "FAST",
+      "company": "Fastenal Company",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "GS",
-      "company": "The Goldman Sachs Group, Inc.",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "JNJ",
-      "company": "Johnson & Johnson",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "UNH",
-      "company": "UnitedHealth Group Incorporated",
+      "ticker": "PGR",
+      "company": "The Progressive Corporation",
       "session": "BMO",
       "reason": "below_threshold"
     }
