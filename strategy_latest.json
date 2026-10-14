@@ -1,82 +1,112 @@
 {
-  "report_date": "2026-10-13",
-  "built_at_utc": "2026-10-13T23:07:42+00:00",
+  "report_date": "2026-10-14",
+  "built_at_utc": "2026-10-14T21:57:16+00:00",
   "window": {
-    "before_open_session": "2026-10-13",
+    "before_open_session": "2026-10-14",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "AZZ",
-      "company": "AZZ Inc.",
-      "session": "AMC",
-      "side": 1,
-      "dir_use": 41.5,
-      "rev_use": 37.0,
-      "mom_aligned": 2.653,
-      "old_weight": 0.1114,
-      "mom_weight": 0.2753,
-      "no_data": false
-    },
-    {
-      "ticker": "BLK",
-      "company": "BlackRock, Inc.",
+      "ticker": "BNY",
+      "company": "BNY Mellon",
       "session": "BMO",
       "side": 1,
-      "dir_use": 41.0,
+      "dir_use": 36.0,
       "rev_use": 37.0,
-      "mom_aligned": -1.191,
-      "old_weight": 0.1029,
-      "mom_weight": 0.1129,
+      "mom_aligned": -2.695,
+      "old_weight": 0.0347,
+      "mom_weight": 0.0884,
       "no_data": false
     },
     {
-      "ticker": "MS",
-      "company": "Morgan Stanley",
+      "ticker": "CMC",
+      "company": "Commercial Metals",
       "session": "BMO",
       "side": 1,
       "dir_use": 45.0,
       "rev_use": 35.0,
-      "mom_aligned": -1.621,
-      "old_weight": 0.2857,
-      "mom_weight": 0.243,
+      "mom_aligned": 1.888,
+      "old_weight": 0.5,
+      "mom_weight": 0.466,
       "no_data": false
     },
     {
-      "ticker": "STT",
-      "company": "State Street Corporation",
+      "ticker": "PNC",
+      "company": "PNC Financial Services",
       "session": "BMO",
       "side": 1,
-      "dir_use": 51.0,
-      "rev_use": 34.0,
-      "mom_aligned": -0.492,
-      "old_weight": 0.5,
-      "mom_weight": 0.3688,
+      "dir_use": 36.0,
+      "rev_use": 38.0,
+      "mom_aligned": -1.925,
+      "old_weight": 0.0231,
+      "mom_weight": 0.0589,
+      "no_data": false
+    },
+    {
+      "ticker": "SCHW",
+      "company": "Charles Schwab",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 43.5,
+      "rev_use": 35.5,
+      "mom_aligned": -0.907,
+      "old_weight": 0.4422,
+      "mom_weight": 0.3867,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "ASML",
-      "company": "ASML Holding N.V.",
+      "ticker": "EQBK",
+      "company": "Equity Bancshares",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "ERIC",
+      "company": "Ericsson",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "BAC",
-      "company": "Bank of America Corporation",
+      "ticker": "FHN",
+      "company": "First Horizon",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "FAST",
-      "company": "Fastenal Company",
+      "ticker": "HOMB",
+      "company": "Home BancShares",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "MAN",
+      "company": "ManpowerGroup",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "PGR",
-      "company": "The Progressive Corporation",
+      "ticker": "MRSH",
+      "company": "Marsh",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "PLD",
+      "company": "Prologis",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "USB",
+      "company": "U.S. Bancorp",
       "session": "BMO",
       "reason": "below_threshold"
     }
