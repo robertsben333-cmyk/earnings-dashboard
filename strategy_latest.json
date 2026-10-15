@@ -1,112 +1,94 @@
 {
-  "report_date": "2026-10-14",
-  "built_at_utc": "2026-10-14T21:57:16+00:00",
+  "report_date": "2026-10-15",
+  "built_at_utc": "2026-10-15T21:47:34+00:00",
   "window": {
-    "before_open_session": "2026-10-14",
+    "before_open_session": "2026-10-15",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "BNY",
-      "company": "BNY Mellon",
+      "ticker": "CFG",
+      "company": "Citizens Financial Group",
       "session": "BMO",
       "side": 1,
-      "dir_use": 36.0,
-      "rev_use": 37.0,
-      "mom_aligned": -2.695,
-      "old_weight": 0.0347,
-      "mom_weight": 0.0884,
+      "dir_use": 39.0,
+      "rev_use": 37.5,
+      "mom_aligned": 0.205,
+      "old_weight": 0.122,
+      "mom_weight": 0.1476,
       "no_data": false
     },
     {
-      "ticker": "CMC",
-      "company": "Commercial Metals",
+      "ticker": "IBKR",
+      "company": "Interactive Brokers Group",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 47.5,
+      "rev_use": 38.0,
+      "mom_aligned": -2.4,
+      "old_weight": 0.3049,
+      "mom_weight": 0.2087,
+      "no_data": false
+    },
+    {
+      "ticker": "MTB",
+      "company": "M&T Bank",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 36.0,
+      "rev_use": 34.0,
+      "mom_aligned": 0.33,
+      "old_weight": 0.0732,
+      "mom_weight": 0.1771,
+      "no_data": false
+    },
+    {
+      "ticker": "TRV",
+      "company": "The Travelers Companies",
       "session": "BMO",
       "side": 1,
       "dir_use": 45.0,
       "rev_use": 35.0,
-      "mom_aligned": 1.888,
+      "mom_aligned": 3.14,
       "old_weight": 0.5,
-      "mom_weight": 0.466,
-      "no_data": false
-    },
-    {
-      "ticker": "PNC",
-      "company": "PNC Financial Services",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 36.0,
-      "rev_use": 38.0,
-      "mom_aligned": -1.925,
-      "old_weight": 0.0231,
-      "mom_weight": 0.0589,
-      "no_data": false
-    },
-    {
-      "ticker": "SCHW",
-      "company": "Charles Schwab",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 43.5,
-      "rev_use": 35.5,
-      "mom_aligned": -0.907,
-      "old_weight": 0.4422,
-      "mom_weight": 0.3867,
+      "mom_weight": 0.4667,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "EQBK",
-      "company": "Equity Bancshares",
+      "ticker": "AA",
+      "company": "Alcoa",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "ERIC",
-      "company": "Ericsson",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "FHN",
-      "company": "First Horizon",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "HOMB",
-      "company": "Home BancShares",
+      "ticker": "JBHT",
+      "company": "J.B. Hunt Transport Services",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "MAN",
-      "company": "ManpowerGroup",
+      "ticker": "LADR",
+      "company": "Ladder Capital",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "MRSH",
-      "company": "Marsh",
+      "ticker": "RF",
+      "company": "Regions Financial",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "PLD",
-      "company": "Prologis",
-      "session": "BMO",
+      "ticker": "SFNC",
+      "company": "Simmons First National",
+      "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "TSM",
-      "company": "Taiwan Semiconductor Manufacturing",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "USB",
-      "company": "U.S. Bancorp",
+      "ticker": "TFC",
+      "company": "Truist Financial",
       "session": "BMO",
       "reason": "below_threshold"
     }
