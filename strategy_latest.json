@@ -1,41 +1,173 @@
 {
-  "report_date": "2026-10-16",
-  "built_at_utc": "2026-10-18T21:02:32+00:00",
+  "report_date": "2026-10-19",
+  "built_at_utc": "2026-10-19T22:38:26+00:00",
   "window": {
-    "before_open_session": "2026-10-16",
+    "before_open_session": "2026-10-19",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "FITB",
-      "company": "Fifth Third Bancorp",
+      "ticker": "CCK",
+      "company": "Crown Holdings, Inc.",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 42.0,
+      "rev_use": 32.5,
+      "mom_aligned": -3.448,
+      "old_weight": 0.3251,
+      "mom_weight": 0.2939,
+      "no_data": false
+    },
+    {
+      "ticker": "GM",
+      "company": "General Motors Company",
       "session": "BMO",
       "side": 1,
-      "dir_use": 39.85,
-      "rev_use": 36.15,
-      "mom_aligned": 1.531,
-      "old_weight": 0.5,
-      "mom_weight": 0.502,
+      "dir_use": 45.0,
+      "rev_use": 36.0,
+      "mom_aligned": -1.515,
+      "old_weight": 0.2477,
+      "mom_weight": 0.1874,
+      "no_data": false
+    },
+    {
+      "ticker": "GPC",
+      "company": "Genuine Parts Company",
+      "session": "BMO",
+      "side": -1,
+      "dir_use": -40.0,
+      "rev_use": 39.0,
+      "mom_aligned": 2.494,
+      "old_weight": 0.031,
+      "mom_weight": 0.0331,
+      "no_data": false
+    },
+    {
+      "ticker": "MMM",
+      "company": "3M Company",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 37.0,
+      "rev_use": 34.0,
+      "mom_aligned": 3.127,
+      "old_weight": 0.0743,
+      "mom_weight": 0.1257,
+      "no_data": false
+    },
+    {
+      "ticker": "RTX",
+      "company": "RTX Corporation",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 47.0,
+      "rev_use": 39.0,
+      "mom_aligned": 3.205,
+      "old_weight": 0.0743,
+      "mom_weight": 0.0513,
+      "no_data": false
+    },
+    {
+      "ticker": "SYF",
+      "company": "Synchrony Financial",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 37.0,
+      "rev_use": 38.0,
+      "mom_aligned": -0.162,
+      "old_weight": 0.0248,
+      "mom_weight": 0.0419,
+      "no_data": false
+    },
+    {
+      "ticker": "WRB",
+      "company": "W. R. Berkley Corporation",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 39.0,
+      "rev_use": 31.0,
+      "mom_aligned": -1.474,
+      "old_weight": 0.2229,
+      "mom_weight": 0.2666,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "CLF",
-      "company": "Cleveland-Cliffs Inc.",
+      "ticker": "AGNC",
+      "company": "AGNC Investment Corp.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "ALLY",
+      "company": "Ally Financial Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "DX",
-      "company": "Dynex Capital, Inc.",
+      "ticker": "EFX",
+      "company": "Equifax Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "VFS",
-      "company": "VinFast Auto Ltd.",
+      "ticker": "GE",
+      "company": "GE Aerospace",
       "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "HAL",
+      "company": "Halliburton Company",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "HAS",
+      "company": "Hasbro, Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "KEY",
+      "company": "KeyCorp",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "MSCI",
+      "company": "MSCI Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "NOC",
+      "company": "Northrop Grumman Corporation",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "STLD",
+      "company": "Steel Dynamics, Inc.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "WAL",
+      "company": "Western Alliance Bancorporation",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "WTFC",
+      "company": "Wintrust Financial Corporation",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "ZION",
+      "company": "Zions Bancorporation, N.A.",
+      "session": "AMC",
       "reason": "below_threshold"
     }
   ]
