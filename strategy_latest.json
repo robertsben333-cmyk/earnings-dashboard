@@ -1,173 +1,197 @@
 {
-  "report_date": "2026-10-19",
-  "built_at_utc": "2026-10-19T22:38:26+00:00",
+  "report_date": "2026-10-20",
+  "built_at_utc": "2026-10-20T21:53:16+00:00",
   "window": {
-    "before_open_session": "2026-10-19",
+    "before_open_session": "2026-10-20",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "CCK",
-      "company": "Crown Holdings, Inc.",
-      "session": "AMC",
+      "ticker": "ABT",
+      "company": "Abbott Laboratories",
+      "session": "BMO",
       "side": 1,
-      "dir_use": 42.0,
-      "rev_use": 32.5,
-      "mom_aligned": -3.448,
-      "old_weight": 0.3251,
-      "mom_weight": 0.2939,
+      "dir_use": 38.0,
+      "rev_use": 38.0,
+      "mom_aligned": -3.137,
+      "old_weight": 0.024,
+      "mom_weight": 0.0412,
       "no_data": false
     },
     {
-      "ticker": "GM",
-      "company": "General Motors Company",
+      "ticker": "CME",
+      "company": "CME Group",
       "session": "BMO",
       "side": 1,
-      "dir_use": 45.0,
+      "dir_use": 53.5,
+      "rev_use": 32.0,
+      "mom_aligned": 0.49,
+      "old_weight": 0.5,
+      "mom_weight": 0.4096,
+      "no_data": false
+    },
+    {
+      "ticker": "NTRS",
+      "company": "Northern Trust",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 40.0,
       "rev_use": 36.0,
-      "mom_aligned": -1.515,
-      "old_weight": 0.2477,
-      "mom_weight": 0.1874,
+      "mom_aligned": -0.06,
+      "old_weight": 0.08,
+      "mom_weight": 0.1065,
       "no_data": false
     },
     {
-      "ticker": "GPC",
-      "company": "Genuine Parts Company",
-      "session": "BMO",
-      "side": -1,
-      "dir_use": -40.0,
-      "rev_use": 39.0,
-      "mom_aligned": 2.494,
-      "old_weight": 0.031,
-      "mom_weight": 0.0331,
-      "no_data": false
-    },
-    {
-      "ticker": "MMM",
-      "company": "3M Company",
+      "ticker": "PM",
+      "company": "Philip Morris International",
       "session": "BMO",
       "side": 1,
-      "dir_use": 37.0,
-      "rev_use": 34.0,
-      "mom_aligned": 3.127,
-      "old_weight": 0.0743,
-      "mom_weight": 0.1257,
+      "dir_use": 43.0,
+      "rev_use": 38.0,
+      "mom_aligned": -2.924,
+      "old_weight": 0.064,
+      "mom_weight": 0.0673,
       "no_data": false
     },
     {
-      "ticker": "RTX",
-      "company": "RTX Corporation",
+      "ticker": "T",
+      "company": "AT&T",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 36.0,
+      "rev_use": 33.0,
+      "mom_aligned": 0.213,
+      "old_weight": 0.028,
+      "mom_weight": 0.0833,
+      "no_data": false
+    },
+    {
+      "ticker": "TMO",
+      "company": "Thermo Fisher Scientific",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 43.0,
+      "rev_use": 35.0,
+      "mom_aligned": -0.381,
+      "old_weight": 0.16,
+      "mom_weight": 0.1683,
+      "no_data": false
+    },
+    {
+      "ticker": "WAB",
+      "company": "Westinghouse Air Brake Technologies",
       "session": "BMO",
       "side": 1,
       "dir_use": 47.0,
-      "rev_use": 39.0,
-      "mom_aligned": 3.205,
-      "old_weight": 0.0743,
-      "mom_weight": 0.0513,
-      "no_data": false
-    },
-    {
-      "ticker": "SYF",
-      "company": "Synchrony Financial",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 37.0,
-      "rev_use": 38.0,
-      "mom_aligned": -0.162,
-      "old_weight": 0.0248,
-      "mom_weight": 0.0419,
-      "no_data": false
-    },
-    {
-      "ticker": "WRB",
-      "company": "W. R. Berkley Corporation",
-      "session": "AMC",
-      "side": 1,
-      "dir_use": 39.0,
-      "rev_use": 31.0,
-      "mom_aligned": -1.474,
-      "old_weight": 0.2229,
-      "mom_weight": 0.2666,
+      "rev_use": 37.0,
+      "mom_aligned": -1.182,
+      "old_weight": 0.144,
+      "mom_weight": 0.1237,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "AGNC",
-      "company": "AGNC Investment Corp.",
+      "ticker": "ALK",
+      "company": "Alaska Air Group",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "ALLY",
-      "company": "Ally Financial Inc.",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "EFX",
-      "company": "Equifax Inc.",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "GE",
-      "company": "GE Aerospace",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "HAL",
-      "company": "Halliburton Company",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "HAS",
-      "company": "Hasbro, Inc.",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "KEY",
-      "company": "KeyCorp",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "MSCI",
-      "company": "MSCI Inc.",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "NOC",
-      "company": "Northrop Grumman Corporation",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "STLD",
-      "company": "Steel Dynamics, Inc.",
+      "ticker": "CB",
+      "company": "Chubb",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "WAL",
-      "company": "Western Alliance Bancorporation",
+      "ticker": "COF",
+      "company": "Capital One Financial",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "WTFC",
-      "company": "Wintrust Financial Corporation",
+      "ticker": "DHR",
+      "company": "Danaher",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "ELV",
+      "company": "Elevance Health",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "ISRG",
+      "company": "Intuitive Surgical",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "ZION",
-      "company": "Zions Bancorporation, N.A.",
+      "ticker": "LAD",
+      "company": "Lithia Motors",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "LRN",
+      "company": "Stride",
       "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "MCO",
+      "company": "Moody's",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "NEE",
+      "company": "NextEra Energy",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "NFLX",
+      "company": "Netflix",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "NLY",
+      "company": "Annaly Capital Management",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "PEGA",
+      "company": "Pegasystems",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "SPCX",
+      "company": "SpaceX",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "TDY",
+      "company": "Teledyne Technologies",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "UAL",
+      "company": "United Airlines Holdings",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "WFRD",
+      "company": "Weatherford International",
+      "session": "BMO",
       "reason": "below_threshold"
     }
   ]
