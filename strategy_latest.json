@@ -1,179 +1,113 @@
 {
-  "report_date": "2026-10-21",
-  "built_at_utc": "2026-10-21T21:59:26+00:00",
+  "report_date": "2026-10-22",
+  "built_at_utc": "2026-10-22T21:55:53+00:00",
   "window": {
-    "before_open_session": "2026-10-21",
-    "after_close_session": null
+    "before_open_session": "2026-10-23",
+    "after_close_session": "2026-10-22"
   },
   "invest": [
     {
-      "ticker": "DOW",
-      "company": "Dow",
-      "session": "BMO",
-      "side": -1,
-      "dir_use": -38.0,
-      "rev_use": 39.0,
-      "mom_aligned": -1.198,
-      "old_weight": 0.0146,
-      "mom_weight": 0.0185,
-      "no_data": false
-    },
-    {
-      "ticker": "LMT",
-      "company": "Lockheed Martin",
+      "ticker": "AXP",
+      "company": "American Express",
       "session": "BMO",
       "side": 1,
-      "dir_use": 53.5,
-      "rev_use": 30.5,
-      "mom_aligned": 0.688,
-      "old_weight": 0.5,
-      "mom_weight": 0.4367,
-      "no_data": false
-    },
-    {
-      "ticker": "PG",
-      "company": "Procter & Gamble",
-      "session": "BMO",
-      "side": -1,
-      "dir_use": -45.0,
-      "rev_use": 38.0,
-      "mom_aligned": -0.901,
-      "old_weight": 0.0973,
-      "mom_weight": 0.0676,
-      "no_data": false
-    },
-    {
-      "ticker": "SPOT",
-      "company": "Spotify Technology",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 47.0,
-      "rev_use": 38.0,
-      "mom_aligned": 0.58,
-      "old_weight": 0.1168,
-      "mom_weight": 0.074,
-      "no_data": false
-    },
-    {
-      "ticker": "TXN",
-      "company": "Texas Instruments",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 42.0,
+      "dir_use": 39.0,
       "rev_use": 36.0,
-      "mom_aligned": 3.929,
-      "old_weight": 0.1363,
-      "mom_weight": 0.1131,
+      "mom_aligned": 1.311,
+      "old_weight": 0.5,
+      "mom_weight": 0.5087,
       "no_data": false
     },
     {
-      "ticker": "URI",
-      "company": "United Rentals",
+      "ticker": "NEM",
+      "company": "Newmont",
       "session": "AMC",
       "side": 1,
-      "dir_use": 38.0,
-      "rev_use": 37.0,
-      "mom_aligned": 4.882,
-      "old_weight": 0.0438,
-      "mom_weight": 0.2169,
-      "no_data": false
-    },
-    {
-      "ticker": "VLO",
-      "company": "Valero Energy",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 42.5,
-      "rev_use": 37.5,
-      "mom_aligned": 0.852,
-      "old_weight": 0.0912,
-      "mom_weight": 0.0732,
+      "dir_use": 55.0,
+      "rev_use": 34.5,
+      "mom_aligned": -2.628,
+      "old_weight": 0.5,
+      "mom_weight": 0.33,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "AAL",
-      "company": "American Airlines",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "BX",
-      "company": "Blackstone",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "CCI",
-      "company": "Crown Castle",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "CMCSA",
-      "company": "Comcast",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "CSX",
-      "company": "CSX",
+      "ticker": "APPF",
+      "company": "AppFolio",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "HON",
-      "company": "Honeywell Technologies",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "IBM",
-      "company": "International Business Machines",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "LVS",
-      "company": "Las Vegas Sands",
+      "ticker": "BE",
+      "company": "Bloom Energy",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "MEDP",
-      "company": "Medpace",
+      "ticker": "BYD",
+      "company": "Boyd Gaming",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "META",
-      "company": "Meta Platforms",
+      "ticker": "FIX",
+      "company": "Comfort Systems USA",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "KNSL",
+      "company": "Kinsale Capital",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "OMC",
+      "company": "Omnicom",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "RHI",
+      "company": "Robert Half",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "SAM",
+      "company": "Boston Beer",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "SLB",
+      "company": "SLB",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "TSCO",
-      "company": "Tractor Supply",
-      "session": "BMO",
+      "ticker": "WDC",
+      "company": "Western Digital",
+      "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "TSLA",
-      "company": "Tesla",
-      "session": "BMO",
-      "reason": "below_threshold"
+      "ticker": "DECK",
+      "company": "Deckers Outdoor",
+      "session": "AMC",
+      "reason": "barrier"
     },
     {
-      "ticker": "UNP",
-      "company": "Union Pacific",
-      "session": "BMO",
-      "reason": "below_threshold"
+      "ticker": "SSNC",
+      "company": "SS&C Technologies",
+      "session": "AMC",
+      "reason": "barrier"
     },
     {
-      "ticker": "LRCX",
-      "company": "Lam Research",
-      "session": "BMO",
+      "ticker": "VRSN",
+      "company": "VeriSign",
+      "session": "AMC",
       "reason": "barrier"
     }
   ]
