@@ -1,114 +1,90 @@
 {
-  "report_date": "2026-10-22",
-  "built_at_utc": "2026-10-22T21:55:53+00:00",
+  "report_date": "2026-10-23",
+  "built_at_utc": "2026-10-23T21:41:29+00:00",
   "window": {
     "before_open_session": "2026-10-23",
-    "after_close_session": "2026-10-22"
+    "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "AXP",
-      "company": "American Express",
+      "ticker": "ARLP",
+      "company": "Alliance Resource Partners",
       "session": "BMO",
       "side": 1,
-      "dir_use": 39.0,
+      "dir_use": 37.0,
+      "rev_use": 38.0,
+      "mom_aligned": 2.088,
+      "old_weight": 0.1667,
+      "mom_weight": 0.2457,
+      "no_data": false
+    },
+    {
+      "ticker": "CX",
+      "company": "CEMEX",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 50.0,
       "rev_use": 36.0,
-      "mom_aligned": 1.311,
+      "mom_aligned": -1.476,
       "old_weight": 0.5,
       "mom_weight": 0.5087,
       "no_data": false
     },
     {
-      "ticker": "NEM",
-      "company": "Newmont",
-      "session": "AMC",
+      "ticker": "VZ",
+      "company": "Verizon Communications",
+      "session": "BMO",
       "side": 1,
-      "dir_use": 55.0,
-      "rev_use": 34.5,
-      "mom_aligned": -2.628,
-      "old_weight": 0.5,
-      "mom_weight": 0.33,
+      "dir_use": 43.0,
+      "rev_use": 39.0,
+      "mom_aligned": 2.133,
+      "old_weight": 0.3333,
+      "mom_weight": 0.2457,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "APPF",
-      "company": "AppFolio",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "BE",
-      "company": "Bloom Energy",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "BYD",
-      "company": "Boyd Gaming",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "FIX",
-      "company": "Comfort Systems USA",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "KNSL",
-      "company": "Kinsale Capital",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "OMC",
-      "company": "Omnicom",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "RHI",
-      "company": "Robert Half",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "SAM",
-      "company": "Boston Beer",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "SLB",
-      "company": "SLB",
+      "ticker": "BMRC",
+      "company": "Bank of Marin Bancorp",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "WDC",
-      "company": "Western Digital",
-      "session": "AMC",
+      "ticker": "BOH",
+      "company": "Bank of Hawaii",
+      "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "DECK",
-      "company": "Deckers Outdoor",
-      "session": "AMC",
-      "reason": "barrier"
+      "ticker": "DEA",
+      "company": "Easterly Government Properties",
+      "session": "BMO",
+      "reason": "below_threshold"
     },
     {
-      "ticker": "SSNC",
-      "company": "SS&C Technologies",
-      "session": "AMC",
-      "reason": "barrier"
+      "ticker": "HBT",
+      "company": "HBT Financial",
+      "session": "BMO",
+      "reason": "below_threshold"
     },
     {
-      "ticker": "VRSN",
-      "company": "VeriSign",
-      "session": "AMC",
-      "reason": "barrier"
+      "ticker": "LKFN",
+      "company": "Lakeland Financial",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "MED",
+      "company": "Medifast",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "MMYT",
+      "company": "MakeMyTrip",
+      "session": "BMO",
+      "reason": "below_threshold"
     }
   ]
 }
