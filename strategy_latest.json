@@ -1,6 +1,6 @@
 {
   "report_date": "2026-10-23",
-  "built_at_utc": "2026-10-23T21:41:29+00:00",
+  "built_at_utc": "2026-10-24T21:12:16+00:00",
   "window": {
     "before_open_session": "2026-10-23",
     "after_close_session": null
@@ -13,7 +13,7 @@
       "side": 1,
       "dir_use": 37.0,
       "rev_use": 38.0,
-      "mom_aligned": 2.088,
+      "mom_aligned": 2.534,
       "old_weight": 0.1667,
       "mom_weight": 0.2457,
       "no_data": false
@@ -37,7 +37,7 @@
       "side": 1,
       "dir_use": 43.0,
       "rev_use": 39.0,
-      "mom_aligned": 2.133,
+      "mom_aligned": 2.317,
       "old_weight": 0.3333,
       "mom_weight": 0.2457,
       "no_data": false
