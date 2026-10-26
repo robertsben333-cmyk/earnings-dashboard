@@ -1,88 +1,166 @@
 {
-  "report_date": "2026-10-23",
-  "built_at_utc": "2026-10-25T21:14:48+00:00",
+  "report_date": "2026-10-26",
+  "built_at_utc": "2026-10-26T22:52:52+00:00",
   "window": {
-    "before_open_session": "2026-10-23",
+    "before_open_session": "2026-10-26",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "ARLP",
-      "company": "Alliance Resource Partners",
+      "ticker": "HCA",
+      "company": "HCA Healthcare",
       "session": "BMO",
       "side": 1,
-      "dir_use": 37.0,
-      "rev_use": 38.0,
-      "mom_aligned": 2.534,
-      "old_weight": 0.1667,
-      "mom_weight": 0.2457,
-      "no_data": false
-    },
-    {
-      "ticker": "CX",
-      "company": "CEMEX",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 50.0,
+      "dir_use": 36.0,
       "rev_use": 36.0,
-      "mom_aligned": -1.476,
-      "old_weight": 0.5,
-      "mom_weight": 0.5087,
+      "mom_aligned": -0.713,
+      "old_weight": 0.0476,
+      "mom_weight": 0.1415,
       "no_data": false
     },
     {
-      "ticker": "VZ",
-      "company": "Verizon Communications",
+      "ticker": "JCI",
+      "company": "Johnson Controls International",
       "session": "BMO",
       "side": 1,
       "dir_use": 43.0,
+      "rev_use": 36.0,
+      "mom_aligned": 3.809,
+      "old_weight": 0.381,
+      "mom_weight": 0.4001,
+      "no_data": false
+    },
+    {
+      "ticker": "NUE",
+      "company": "Nucor",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 46.0,
+      "rev_use": 32.0,
+      "mom_aligned": -0.062,
+      "old_weight": 0.5,
+      "mom_weight": 0.33,
+      "no_data": false
+    },
+    {
+      "ticker": "WELL",
+      "company": "Welltower",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 41.0,
       "rev_use": 39.0,
-      "mom_aligned": 2.317,
-      "old_weight": 0.3333,
-      "mom_weight": 0.2457,
+      "mom_aligned": 1.087,
+      "old_weight": 0.0714,
+      "mom_weight": 0.1284,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "BMRC",
-      "company": "Bank of Marin Bancorp",
+      "ticker": "AMT",
+      "company": "American Tower",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "BOH",
-      "company": "Bank of Hawaii",
+      "ticker": "BA",
+      "company": "Boeing",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "DEA",
-      "company": "Easterly Government Properties",
+      "ticker": "CDNS",
+      "company": "Cadence Design Systems",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "CLS",
+      "company": "Celestica",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "CNC",
+      "company": "Centene",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "HBT",
-      "company": "HBT Financial",
+      "ticker": "FCX",
+      "company": "Freeport-McMoRan",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "LKFN",
-      "company": "Lakeland Financial",
+      "ticker": "GLW",
+      "company": "Corning",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "MED",
-      "company": "Medifast",
+      "ticker": "HLT",
+      "company": "Hilton Worldwide",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "MMYT",
-      "company": "MakeMyTrip",
+      "ticker": "KO",
+      "company": "Coca-Cola",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "PSA",
+      "company": "Public Storage",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "PYPL",
+      "company": "PayPal",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "RCL",
+      "company": "Royal Caribbean Group",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "SHW",
+      "company": "Sherwin-Williams",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "SOFI",
+      "company": "SoFi Technologies",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "SPGI",
+      "company": "S&P Global",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "UPS",
+      "company": "United Parcel Service",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "WHR",
+      "company": "Whirlpool",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "WSO",
+      "company": "Watsco",
       "session": "BMO",
       "reason": "below_threshold"
     }
