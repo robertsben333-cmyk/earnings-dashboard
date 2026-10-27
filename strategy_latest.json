@@ -1,167 +1,143 @@
 {
-  "report_date": "2026-10-26",
-  "built_at_utc": "2026-10-26T22:52:52+00:00",
+  "report_date": "2026-10-27",
+  "built_at_utc": "2026-10-27T22:37:49+00:00",
   "window": {
-    "before_open_session": "2026-10-26",
-    "after_close_session": null
+    "before_open_session": "2026-10-28",
+    "after_close_session": "2026-10-27"
   },
   "invest": [
     {
-      "ticker": "HCA",
-      "company": "HCA Healthcare",
+      "ticker": "ADP",
+      "company": "Automatic Data Processing, Inc.",
       "session": "BMO",
       "side": 1,
       "dir_use": 36.0,
-      "rev_use": 36.0,
-      "mom_aligned": -0.713,
-      "old_weight": 0.0476,
-      "mom_weight": 0.1415,
+      "rev_use": 32.0,
+      "mom_aligned": -1.789,
+      "old_weight": 0.065,
+      "mom_weight": 0.1329,
       "no_data": false
     },
     {
-      "ticker": "JCI",
-      "company": "Johnson Controls International",
-      "session": "BMO",
+      "ticker": "BKR",
+      "company": "Baker Hughes Co.",
+      "session": "AMC",
       "side": 1,
-      "dir_use": 43.0,
-      "rev_use": 36.0,
-      "mom_aligned": 3.809,
-      "old_weight": 0.381,
-      "mom_weight": 0.4001,
+      "dir_use": 39.0,
+      "rev_use": 38.0,
+      "mom_aligned": 4.516,
+      "old_weight": 0.065,
+      "mom_weight": 0.2407,
       "no_data": false
     },
     {
-      "ticker": "NUE",
-      "company": "Nucor",
+      "ticker": "NXPI",
+      "company": "NXP Semiconductors N.V.",
       "session": "AMC",
       "side": 1,
       "dir_use": 46.0,
-      "rev_use": 32.0,
-      "mom_aligned": -0.062,
+      "rev_use": 34.0,
+      "mom_aligned": -0.453,
       "old_weight": 0.5,
       "mom_weight": 0.33,
       "no_data": false
     },
     {
-      "ticker": "WELL",
-      "company": "Welltower",
+      "ticker": "V",
+      "company": "Visa Inc.",
       "session": "AMC",
       "side": 1,
-      "dir_use": 41.0,
-      "rev_use": 39.0,
-      "mom_aligned": 1.087,
-      "old_weight": 0.0714,
-      "mom_weight": 0.1284,
+      "dir_use": 41.5,
+      "rev_use": 33.0,
+      "mom_aligned": -3.032,
+      "old_weight": 0.3699,
+      "mom_weight": 0.2964,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "AMT",
-      "company": "American Tower",
+      "ticker": "APH",
+      "company": "Amphenol Corporation",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "BA",
-      "company": "Boeing",
+      "ticker": "BSX",
+      "company": "Boston Scientific Corp.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CDNS",
-      "company": "Cadence Design Systems",
+      "ticker": "ENPH",
+      "company": "Enphase Energy, Inc.",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CLS",
-      "company": "Celestica",
+      "ticker": "FFIV",
+      "company": "F5, Inc.",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CNC",
-      "company": "Centene",
+      "ticker": "GEHC",
+      "company": "GE HealthCare Technologies Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "FCX",
-      "company": "Freeport-McMoRan",
+      "ticker": "GEV",
+      "company": "GE Vernova Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "GLW",
-      "company": "Corning",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "HLT",
-      "company": "Hilton Worldwide",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "KO",
-      "company": "Coca-Cola",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "PSA",
-      "company": "Public Storage",
+      "ticker": "HOOD",
+      "company": "Robinhood Markets, Inc.",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "PYPL",
-      "company": "PayPal",
+      "ticker": "ODFL",
+      "company": "Old Dominion Freight Line, Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "RCL",
-      "company": "Royal Caribbean Group",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "SHW",
-      "company": "Sherwin-Williams",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "SOFI",
-      "company": "SoFi Technologies",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "SPGI",
-      "company": "S&P Global",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "UPS",
-      "company": "United Parcel Service",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "WHR",
-      "company": "Whirlpool",
+      "ticker": "STX",
+      "company": "Seagate Technology Holdings plc",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "WSO",
-      "company": "Watsco",
+      "ticker": "TER",
+      "company": "Teradyne, Inc.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "VFC",
+      "company": "VF Corporation",
       "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "VRT",
+      "company": "Vertiv Holdings Co",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "WING",
+      "company": "Wingstop Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "WM",
+      "company": "Waste Management, Inc.",
+      "session": "AMC",
       "reason": "below_threshold"
     }
   ]
