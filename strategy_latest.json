@@ -1,144 +1,204 @@
 {
-  "report_date": "2026-10-27",
-  "built_at_utc": "2026-10-27T22:37:49+00:00",
+  "report_date": "2026-10-28",
+  "built_at_utc": "2026-10-28T22:52:05+00:00",
   "window": {
     "before_open_session": "2026-10-28",
-    "after_close_session": "2026-10-27"
+    "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "ADP",
-      "company": "Automatic Data Processing, Inc.",
+      "ticker": "HWM",
+      "company": "Howmet Aerospace",
       "session": "BMO",
       "side": 1,
-      "dir_use": 36.0,
-      "rev_use": 32.0,
-      "mom_aligned": -1.789,
-      "old_weight": 0.065,
-      "mom_weight": 0.1329,
-      "no_data": false
-    },
-    {
-      "ticker": "BKR",
-      "company": "Baker Hughes Co.",
-      "session": "AMC",
-      "side": 1,
-      "dir_use": 39.0,
-      "rev_use": 38.0,
-      "mom_aligned": 4.516,
-      "old_weight": 0.065,
-      "mom_weight": 0.2407,
-      "no_data": false
-    },
-    {
-      "ticker": "NXPI",
-      "company": "NXP Semiconductors N.V.",
-      "session": "AMC",
-      "side": 1,
-      "dir_use": 46.0,
-      "rev_use": 34.0,
-      "mom_aligned": -0.453,
+      "dir_use": 64.3,
+      "rev_use": 31.0,
+      "mom_aligned": 1.856,
       "old_weight": 0.5,
-      "mom_weight": 0.33,
+      "mom_weight": 0.2502,
       "no_data": false
     },
     {
-      "ticker": "V",
-      "company": "Visa Inc.",
+      "ticker": "ICE",
+      "company": "Intercontinental Exchange",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 41.0,
+      "rev_use": 28.0,
+      "mom_aligned": -2.555,
+      "old_weight": 0.1435,
+      "mom_weight": 0.151,
+      "no_data": false
+    },
+    {
+      "ticker": "KLAC",
+      "company": "KLA",
       "session": "AMC",
       "side": 1,
-      "dir_use": 41.5,
-      "rev_use": 33.0,
-      "mom_aligned": -3.032,
-      "old_weight": 0.3699,
-      "mom_weight": 0.2964,
+      "dir_use": 44.3,
+      "rev_use": 39.0,
+      "mom_aligned": 9.919,
+      "old_weight": 0.0185,
+      "mom_weight": 0.1395,
+      "no_data": false
+    },
+    {
+      "ticker": "MA",
+      "company": "Mastercard",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 40.85,
+      "rev_use": 33.85,
+      "mom_aligned": 0.49,
+      "old_weight": 0.0717,
+      "mom_weight": 0.0764,
+      "no_data": false
+    },
+    {
+      "ticker": "ORLY",
+      "company": "O'Reilly Automotive",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 36.7,
+      "rev_use": 30.0,
+      "mom_aligned": 3.13,
+      "old_weight": 0.0339,
+      "mom_weight": 0.1771,
+      "no_data": false
+    },
+    {
+      "ticker": "THC",
+      "company": "Tenet Healthcare",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 51.7,
+      "rev_use": 34.7,
+      "mom_aligned": -0.167,
+      "old_weight": 0.1765,
+      "mom_weight": 0.1113,
+      "no_data": false
+    },
+    {
+      "ticker": "TMUS",
+      "company": "T-Mobile US",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 42.0,
+      "rev_use": 36.0,
+      "mom_aligned": 1.596,
+      "old_weight": 0.0558,
+      "mom_weight": 0.0946,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "APH",
-      "company": "Amphenol Corporation",
+      "ticker": "BMY",
+      "company": "Bristol Myers Squibb",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "BSX",
-      "company": "Boston Scientific Corp.",
+      "ticker": "CAT",
+      "company": "Caterpillar",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "ENPH",
-      "company": "Enphase Energy, Inc.",
+      "ticker": "CMG",
+      "company": "Chipotle Mexican Grill",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "FFIV",
-      "company": "F5, Inc.",
+      "ticker": "CVNA",
+      "company": "Carvana",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "GEHC",
-      "company": "GE HealthCare Technologies Inc.",
+      "ticker": "DHI",
+      "company": "D.R. Horton",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "GEV",
-      "company": "GE Vernova Inc.",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "HOOD",
-      "company": "Robinhood Markets, Inc.",
+      "ticker": "EBAY",
+      "company": "eBay",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "ODFL",
-      "company": "Old Dominion Freight Line, Inc.",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "STX",
-      "company": "Seagate Technology Holdings plc",
+      "ticker": "F",
+      "company": "Ford Motor",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "TER",
-      "company": "Teradyne, Inc.",
+      "ticker": "GOOGL",
+      "company": "Alphabet",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "VFC",
-      "company": "VF Corporation",
+      "ticker": "LIN",
+      "company": "Linde",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "VRT",
-      "company": "Vertiv Holdings Co",
+      "ticker": "LLY",
+      "company": "Eli Lilly",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "WING",
-      "company": "Wingstop Inc.",
+      "ticker": "MBLY",
+      "company": "Mobileye",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "WM",
-      "company": "Waste Management, Inc.",
+      "ticker": "MO",
+      "company": "Altria",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "MRK",
+      "company": "Merck",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
       "session": "AMC",
       "reason": "below_threshold"
+    },
+    {
+      "ticker": "NOW",
+      "company": "ServiceNow",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "PWR",
+      "company": "Quanta Services",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "SFM",
+      "company": "Sprouts Farmers Market",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "session": "AMC",
+      "reason": "barrier"
     }
   ]
 }
