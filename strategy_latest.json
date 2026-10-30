@@ -1,167 +1,143 @@
 {
-  "report_date": "2026-10-29",
-  "built_at_utc": "2026-10-29T22:58:42+00:00",
+  "report_date": "2026-10-30",
+  "built_at_utc": "2026-10-30T22:39:25+00:00",
   "window": {
-    "before_open_session": "2026-10-29",
+    "before_open_session": "2026-10-30",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "ABBV",
-      "company": "AbbVie",
+      "ticker": "AKR",
+      "company": "Acadia Realty Trust",
       "session": "BMO",
       "side": 1,
-      "dir_use": 42.5,
-      "rev_use": 31.5,
-      "mom_aligned": 2.578,
-      "old_weight": 0.3342,
-      "mom_weight": 0.3497,
+      "dir_use": 45.0,
+      "rev_use": 34.0,
+      "mom_aligned": 2.202,
+      "old_weight": 0.5,
+      "mom_weight": 0.4999,
       "no_data": false
     },
     {
-      "ticker": "CNI",
-      "company": "Canadian National Railway",
+      "ticker": "EL",
+      "company": "The Est\u00e9e Lauder Companies",
       "session": "BMO",
       "side": 1,
-      "dir_use": 36.0,
+      "dir_use": 43.0,
+      "rev_use": 38.0,
+      "mom_aligned": 2.507,
+      "old_weight": 0.1932,
+      "mom_weight": 0.1491,
+      "no_data": false
+    },
+    {
+      "ticker": "IDXX",
+      "company": "IDEXX Laboratories",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 38.35,
       "rev_use": 36.0,
-      "mom_aligned": -1.171,
-      "old_weight": 0.021,
-      "mom_weight": 0.0601,
+      "mom_aligned": -3.182,
+      "old_weight": 0.1618,
+      "mom_weight": 0.1929,
       "no_data": false
     },
     {
-      "ticker": "FSLR",
-      "company": "First Solar",
-      "session": "AMC",
-      "side": 1,
-      "dir_use": 42.0,
-      "rev_use": 35.0,
-      "mom_aligned": -2.189,
-      "old_weight": 0.1835,
-      "mom_weight": 0.1987,
-      "no_data": false
-    },
-    {
-      "ticker": "REGN",
-      "company": "Regeneron Pharmaceuticals",
+      "ticker": "NSSC",
+      "company": "NAPCO Security Technologies",
       "session": "BMO",
       "side": 1,
-      "dir_use": 49.0,
-      "rev_use": 35.0,
-      "mom_aligned": 1.701,
-      "old_weight": 0.367,
-      "mom_weight": 0.2811,
-      "no_data": false
-    },
-    {
-      "ticker": "XOM",
-      "company": "ExxonMobil",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 41.0,
+      "dir_use": 39.0,
       "rev_use": 37.0,
-      "mom_aligned": 2.81,
-      "old_weight": 0.0944,
-      "mom_weight": 0.1104,
+      "mom_aligned": -0.782,
+      "old_weight": 0.1449,
+      "mom_weight": 0.1581,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "AMZN",
-      "company": "Amazon",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "CCJ",
-      "company": "Cameco",
+      "ticker": "AXSM",
+      "company": "Axsome Therapeutics",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "COIN",
-      "company": "Coinbase",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "CVX",
-      "company": "Chevron",
+      "ticker": "CHH",
+      "company": "Choice Hotels International",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "GD",
-      "company": "General Dynamics",
+      "ticker": "CHKP",
+      "company": "Check Point Software Technologies",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "GILD",
-      "company": "Gilead Sciences",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "INTC",
-      "company": "Intel",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "MPWR",
-      "company": "Monolithic Power Systems",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "MSTR",
-      "company": "Strategy",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "NVT",
-      "company": "nVent Electric",
+      "ticker": "CIFR",
+      "company": "Cipher Digital",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "RBLX",
-      "company": "Roblox",
-      "session": "AMC",
+      "ticker": "CNA",
+      "company": "CNA Financial",
+      "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "RDDT",
-      "company": "Reddit",
-      "session": "AMC",
+      "ticker": "ETR",
+      "company": "Entergy",
+      "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "RIVN",
-      "company": "Rivian Automotive",
-      "session": "AMC",
+      "ticker": "FOXA",
+      "company": "Fox Corporation Class A",
+      "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "SBUX",
-      "company": "Starbucks",
-      "session": "AMC",
+      "ticker": "KOS",
+      "company": "Kosmos Energy",
+      "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "SNDK",
-      "company": "Sandisk",
-      "session": "AMC",
+      "ticker": "KRYS",
+      "company": "Krystal Biotech",
+      "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "TWLO",
-      "company": "Twilio",
-      "session": "AMC",
+      "ticker": "L",
+      "company": "Loews Corporation",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "MAR",
+      "company": "Marriott International",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "PEG",
+      "company": "Public Service Enterprise Group",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "TEM",
+      "company": "Tempus AI",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "TSEM",
+      "company": "Tower Semiconductor",
+      "session": "BMO",
       "reason": "barrier"
     }
   ]
