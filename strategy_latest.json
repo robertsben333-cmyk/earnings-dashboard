@@ -1,6 +1,6 @@
 {
   "report_date": "2026-10-30",
-  "built_at_utc": "2026-10-30T22:39:25+00:00",
+  "built_at_utc": "2026-10-31T21:52:14+00:00",
   "window": {
     "before_open_session": "2026-10-30",
     "after_close_session": null
@@ -15,7 +15,7 @@
       "rev_use": 34.0,
       "mom_aligned": 2.202,
       "old_weight": 0.5,
-      "mom_weight": 0.4999,
+      "mom_weight": 0.598,
       "no_data": false
     },
     {
@@ -25,21 +25,9 @@
       "side": 1,
       "dir_use": 43.0,
       "rev_use": 38.0,
-      "mom_aligned": 2.507,
-      "old_weight": 0.1932,
-      "mom_weight": 0.1491,
-      "no_data": false
-    },
-    {
-      "ticker": "IDXX",
-      "company": "IDEXX Laboratories",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 38.35,
-      "rev_use": 36.0,
-      "mom_aligned": -3.182,
-      "old_weight": 0.1618,
-      "mom_weight": 0.1929,
+      "mom_aligned": 2.566,
+      "old_weight": 0.2857,
+      "mom_weight": 0.1951,
       "no_data": false
     },
     {
@@ -50,8 +38,8 @@
       "dir_use": 39.0,
       "rev_use": 37.0,
       "mom_aligned": -0.782,
-      "old_weight": 0.1449,
-      "mom_weight": 0.1581,
+      "old_weight": 0.2143,
+      "mom_weight": 0.2069,
       "no_data": false
     }
   ],
@@ -133,6 +121,12 @@
       "company": "Tempus AI",
       "session": "BMO",
       "reason": "below_threshold"
+    },
+    {
+      "ticker": "IDXX",
+      "company": "IDEXX Laboratories",
+      "session": "BMO",
+      "reason": "barrier"
     },
     {
       "ticker": "TSEM",
