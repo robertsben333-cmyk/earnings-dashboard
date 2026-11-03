@@ -1,137 +1,209 @@
 {
-  "report_date": "2026-10-30",
-  "built_at_utc": "2026-11-01T22:26:30+00:00",
+  "report_date": "2026-11-02",
+  "built_at_utc": "2026-11-03T01:16:54+00:00",
   "window": {
-    "before_open_session": "2026-10-30",
+    "before_open_session": "2026-11-02",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "AKR",
-      "company": "Acadia Realty Trust",
+      "ticker": "AME",
+      "company": "AMETEK",
       "session": "BMO",
       "side": 1,
-      "dir_use": 45.0,
-      "rev_use": 34.0,
-      "mom_aligned": 2.202,
-      "old_weight": 0.5,
-      "mom_weight": 0.598,
+      "dir_use": 40.0,
+      "rev_use": 36.0,
+      "mom_aligned": -3.92,
+      "old_weight": 0.1718,
+      "mom_weight": 0.2185,
       "no_data": false
     },
     {
-      "ticker": "EL",
-      "company": "The Est\u00e9e Lauder Companies",
+      "ticker": "ON",
+      "company": "onsemi",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 41.3,
+      "rev_use": 39.3,
+      "mom_aligned": -3.756,
+      "old_weight": 0.0379,
+      "mom_weight": 0.0429,
+      "no_data": false
+    },
+    {
+      "ticker": "TEVA",
+      "company": "Teva Pharmaceutical",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 46.0,
+      "rev_use": 36.0,
+      "mom_aligned": -2.161,
+      "old_weight": 0.378,
+      "mom_weight": 0.3241,
+      "no_data": false
+    },
+    {
+      "ticker": "TRI",
+      "company": "Thomson Reuters",
       "session": "BMO",
       "side": 1,
       "dir_use": 43.0,
-      "rev_use": 38.0,
-      "mom_aligned": 2.566,
-      "old_weight": 0.2857,
-      "mom_weight": 0.1951,
-      "no_data": false
-    },
-    {
-      "ticker": "NSSC",
-      "company": "NAPCO Security Technologies",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 39.0,
-      "rev_use": 37.0,
-      "mom_aligned": -0.782,
-      "old_weight": 0.2143,
-      "mom_weight": 0.2069,
+      "rev_use": 34.0,
+      "mom_aligned": 3.059,
+      "old_weight": 0.4123,
+      "mom_weight": 0.4145,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "AXSM",
-      "company": "Axsome Therapeutics",
+      "ticker": "AAPL",
+      "company": "Apple",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "APO",
+      "company": "Apollo Global Management",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CHH",
-      "company": "Choice Hotels International",
+      "ticker": "BMRN",
+      "company": "BioMarin Pharmaceutical",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "BWXT",
+      "company": "BWX Technologies",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "CLX",
+      "company": "Clorox",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "DOCN",
+      "company": "DigitalOcean",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CHKP",
-      "company": "Check Point Software Technologies",
+      "ticker": "FANG",
+      "company": "Diamondback Energy",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "FISV",
+      "company": "Fiserv",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CIFR",
-      "company": "Cipher Digital",
+      "ticker": "FN",
+      "company": "Fabrinet",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "KDP",
+      "company": "Keurig Dr Pepper",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CNA",
-      "company": "CNA Financial",
+      "ticker": "MPC",
+      "company": "Marathon Petroleum",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "ETR",
-      "company": "Entergy",
+      "ticker": "MPLX",
+      "company": "MPLX",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "FOXA",
-      "company": "Fox Corporation Class A",
+      "ticker": "MTCH",
+      "company": "Match Group",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "O",
+      "company": "Realty Income",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "PFE",
+      "company": "Pfizer",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "KOS",
-      "company": "Kosmos Energy",
+      "ticker": "PLTR",
+      "company": "Palantir Technologies",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "RACE",
+      "company": "Ferrari",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "KRYS",
-      "company": "Krystal Biotech",
+      "ticker": "ROKU",
+      "company": "Roku",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "SHOP",
+      "company": "Shopify",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "L",
-      "company": "Loews Corporation",
+      "ticker": "SYY",
+      "company": "Sysco",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "MAR",
-      "company": "Marriott International",
+      "ticker": "VRTX",
+      "company": "Vertex Pharmaceuticals",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "YUM",
+      "company": "Yum! Brands",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "PEG",
-      "company": "Public Service Enterprise Group",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "TEM",
-      "company": "Tempus AI",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "IDXX",
-      "company": "IDEXX Laboratories",
+      "ticker": "ETN",
+      "company": "Eaton",
       "session": "BMO",
       "reason": "barrier"
     },
     {
-      "ticker": "TSEM",
-      "company": "Tower Semiconductor",
+      "ticker": "WAT",
+      "company": "Waters",
       "session": "BMO",
+      "reason": "barrier"
+    },
+    {
+      "ticker": "WMB",
+      "company": "Williams Companies",
+      "session": "AMC",
       "reason": "barrier"
     }
   ]
