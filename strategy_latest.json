@@ -1,149 +1,191 @@
 {
-  "report_date": "2026-11-03",
-  "built_at_utc": "2026-11-03T23:41:59+00:00",
+  "report_date": "2026-11-04",
+  "built_at_utc": "2026-11-04T23:55:44+00:00",
   "window": {
-    "before_open_session": "2026-11-03",
+    "before_open_session": "2026-11-04",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "CVS",
-      "company": "CVS Health",
+      "ticker": "CAH",
+      "company": "Cardinal Health, Inc.",
       "session": "BMO",
       "side": 1,
-      "dir_use": 38.0,
-      "rev_use": 38.0,
-      "mom_aligned": 2.493,
-      "old_weight": 0.5,
-      "mom_weight": 0.4193,
+      "dir_use": 42.0,
+      "rev_use": 36.0,
+      "mom_aligned": 3.229,
+      "old_weight": 0.2314,
+      "mom_weight": 0.1584,
       "no_data": false
     },
     {
-      "ticker": "UBER",
-      "company": "Uber Technologies",
+      "ticker": "COHR",
+      "company": "Coherent Corp.",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 55.0,
+      "rev_use": 38.0,
+      "mom_aligned": 3.772,
+      "old_weight": 0.3306,
+      "mom_weight": 0.4121,
+      "no_data": false
+    },
+    {
+      "ticker": "MCK",
+      "company": "McKesson",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 36.0,
+      "rev_use": 38.0,
+      "mom_aligned": 5.872,
+      "old_weight": 0.0165,
+      "mom_weight": 0.1415,
+      "no_data": false
+    },
+    {
+      "ticker": "RL",
+      "company": "Ralph Lauren",
       "session": "BMO",
       "side": 1,
-      "dir_use": 38.0,
+      "dir_use": 37.0,
       "rev_use": 37.0,
-      "mom_aligned": 2.357,
-      "old_weight": 0.5,
-      "mom_weight": 0.464,
+      "mom_aligned": 3.577,
+      "old_weight": 0.0496,
+      "mom_weight": 0.0635,
+      "no_data": false
+    },
+    {
+      "ticker": "TPR",
+      "company": "Tapestry, Inc.",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 44.0,
+      "rev_use": 35.0,
+      "mom_aligned": 3.345,
+      "old_weight": 0.3719,
+      "mom_weight": 0.2245,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "AIG",
-      "company": "American International Group",
+      "ticker": "ALB",
+      "company": "Albemarle",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "ALAB",
-      "company": "Astera Labs",
+      "ticker": "ALL",
+      "company": "Allstate",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "AMD",
-      "company": "Advanced Micro Devices",
+      "ticker": "APP",
+      "company": "AppLovin Corp.",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "AMGN",
-      "company": "Amgen",
+      "ticker": "ARM",
+      "company": "Arm Holdings plc",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "ANET",
-      "company": "Arista Networks",
+      "ticker": "BROS",
+      "company": "Dutch Bros",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "BKNG",
-      "company": "Booking Holdings",
+      "ticker": "CAVA",
+      "company": "CAVA Group, Inc.",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CPNG",
-      "company": "Coupang",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "CRCL",
-      "company": "Circle Internet Group",
+      "ticker": "CELH",
+      "company": "Celsius Holdings",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "DDOG",
-      "company": "Datadog",
+      "ticker": "CI",
+      "company": "The Cigna Group",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "DUOL",
-      "company": "Duolingo",
+      "ticker": "CMI",
+      "company": "Cummins",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "COP",
+      "company": "ConocoPhillips",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "COTY",
+      "company": "Coty Inc.",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "GFS",
-      "company": "GlobalFoundries",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "KHC",
-      "company": "Kraft Heinz",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "MCD",
-      "company": "McDonald's",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "NVO",
-      "company": "Novo Nordisk",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "PRU",
-      "company": "Prudential Financial",
+      "ticker": "ELF",
+      "company": "e.l.f. Beauty, Inc.",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "SMCI",
-      "company": "Super Micro Computer",
+      "ticker": "MELI",
+      "company": "MercadoLibre",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "SN",
-      "company": "SharkNinja",
+      "ticker": "MSI",
+      "company": "Motorola Solutions",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "PH",
+      "company": "Parker-Hannifin",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "TOST",
-      "company": "Toast",
+      "ticker": "PTON",
+      "company": "Peloton Interactive, Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "QCOM",
+      "company": "Qualcomm",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "XYZ",
-      "company": "Block",
+      "ticker": "SHAK",
+      "company": "Shake Shack",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "SNAP",
+      "company": "Snap",
       "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "U",
+      "company": "Unity Software",
+      "session": "BMO",
       "reason": "below_threshold"
     }
   ]
