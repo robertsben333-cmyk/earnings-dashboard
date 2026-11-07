@@ -1,6 +1,6 @@
 {
   "report_date": "2026-11-06",
-  "built_at_utc": "2026-11-06T23:30:55+00:00",
+  "built_at_utc": "2026-11-07T22:17:51+00:00",
   "window": {
     "before_open_session": "2026-11-09",
     "after_close_session": "2026-11-06"
@@ -25,7 +25,7 @@
       "side": 1,
       "dir_use": 39.7,
       "rev_use": 37.0,
-      "mom_aligned": 1.207,
+      "mom_aligned": 1.321,
       "old_weight": 0.0516,
       "mom_weight": 0.0755,
       "no_data": false
