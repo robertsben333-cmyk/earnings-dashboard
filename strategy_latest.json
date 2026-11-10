@@ -1,186 +1,174 @@
 {
-  "report_date": "2026-11-09",
-  "built_at_utc": "2026-11-10T01:46:17+00:00",
+  "report_date": "2026-11-10",
+  "built_at_utc": "2026-11-10T23:43:49+00:00",
   "window": {
-    "before_open_session": "2026-11-09",
+    "before_open_session": "2026-11-10",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "BAP",
-      "company": "Credicorp",
+      "ticker": "ATRO",
+      "company": "Astronics",
       "session": "AMC",
       "side": 1,
-      "dir_use": 36.0,
-      "rev_use": 37.7,
-      "mom_aligned": 2.273,
-      "old_weight": 0.0127,
-      "mom_weight": 0.0749,
-      "no_data": false
-    },
-    {
-      "ticker": "EMBJ",
-      "company": "Embraer",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 40.3,
-      "rev_use": 37.0,
-      "mom_aligned": 5.135,
-      "old_weight": 0.0875,
-      "mom_weight": 0.1063,
-      "no_data": false
-    },
-    {
-      "ticker": "ONON",
-      "company": "On Holding",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 36.0,
+      "dir_use": 39.3,
       "rev_use": 39.0,
-      "mom_aligned": 1.132,
-      "old_weight": 0.0055,
-      "mom_weight": 0.0154,
+      "mom_aligned": 2.358,
+      "old_weight": 0.0386,
+      "mom_weight": 0.0483,
       "no_data": false
     },
     {
-      "ticker": "OXY",
-      "company": "Occidental Petroleum",
+      "ticker": "GIB",
+      "company": "CGI Inc.",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 37.2,
+      "rev_use": 29.85,
+      "mom_aligned": -1.405,
+      "old_weight": 0.2003,
+      "mom_weight": 0.162,
+      "no_data": false
+    },
+    {
+      "ticker": "MRCY",
+      "company": "Mercury Systems",
       "session": "AMC",
       "side": 1,
-      "dir_use": 42.15,
-      "rev_use": 33.15,
-      "mom_aligned": -1.219,
-      "old_weight": 0.2696,
-      "mom_weight": 0.282,
+      "dir_use": 39.0,
+      "rev_use": 38.5,
+      "mom_aligned": 13.8,
+      "old_weight": 0.0538,
+      "mom_weight": 0.4565,
       "no_data": false
     },
     {
-      "ticker": "SE",
-      "company": "Sea Limited",
-      "session": "BMO",
+      "ticker": "PBR",
+      "company": "Petrobras",
+      "session": "AMC",
       "side": 1,
-      "dir_use": 48.0,
-      "rev_use": 36.0,
-      "mom_aligned": 6.103,
-      "old_weight": 0.2862,
-      "mom_weight": 0.2221,
+      "dir_use": 42.0,
+      "rev_use": 36.7,
+      "mom_aligned": -3.837,
+      "old_weight": 0.2072,
+      "mom_weight": 0.094,
       "no_data": false
     },
     {
-      "ticker": "TDG",
-      "company": "TransDigm Group",
-      "session": "BMO",
+      "ticker": "REZI",
+      "company": "Resideo Technologies",
+      "session": "AMC",
       "side": 1,
-      "dir_use": 43.7,
-      "rev_use": 38.7,
-      "mom_aligned": 2.779,
-      "old_weight": 0.0623,
-      "mom_weight": 0.059,
-      "no_data": false
-    },
-    {
-      "ticker": "VG",
-      "company": "Venture Global",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 45.35,
-      "rev_use": 35.15,
-      "mom_aligned": 3.007,
-      "old_weight": 0.2763,
-      "mom_weight": 0.2402,
+      "dir_use": 46.0,
+      "rev_use": 33.3,
+      "mom_aligned": -3.086,
+      "old_weight": 0.5,
+      "mom_weight": 0.2392,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "ACHR",
-      "company": "Archer Aviation",
+      "ticker": "AZTA",
+      "company": "Azenta",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "ASTS",
-      "company": "AST SpaceMobile",
+      "ticker": "BV",
+      "company": "BrightView",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "HIMS",
-      "company": "Hims & Hers Health",
+      "ticker": "CRWV",
+      "company": "CoreWeave",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "HSAI",
-      "company": "Hesai Group",
+      "ticker": "FLY",
+      "company": "Firefly Aerospace",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "GO",
+      "company": "Grocery Outlet",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "ICL",
+      "company": "ICL Group",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "LCID",
-      "company": "Lucid Group",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "ONTO",
-      "company": "Onto Innovation",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "PLUG",
-      "company": "Plug Power",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "QBTS",
-      "company": "D-Wave Quantum",
+      "ticker": "INMD",
+      "company": "InMode",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "QLYS",
-      "company": "Qualys",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "RKLB",
-      "company": "Rocket Lab",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "SKYD",
-      "company": "Skydance Corporation",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "TTD",
-      "company": "The Trade Desk",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "TTWO",
-      "company": "Take-Two Interactive",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "WIX",
-      "company": "Wix.com",
+      "ticker": "NYAX",
+      "company": "Nayax",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "ZETA",
-      "company": "Zeta Global",
+      "ticker": "ODD",
+      "company": "ODDITY Tech",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "RGTI",
+      "company": "Rigetti Computing",
       "session": "AMC",
       "reason": "below_threshold"
+    },
+    {
+      "ticker": "RSKD",
+      "company": "Riskified",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "RUM",
+      "company": "RUM Group",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "SGML",
+      "company": "Sigma Lithium",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "SONO",
+      "company": "Sonos",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "STUB",
+      "company": "StubHub",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "VIV",
+      "company": "Telefonica Brasil",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "ALC",
+      "company": "Alcon",
+      "session": "AMC",
+      "reason": "barrier"
     }
   ]
 }
