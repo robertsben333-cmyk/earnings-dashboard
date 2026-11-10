@@ -1,138 +1,186 @@
 {
-  "report_date": "2026-11-06",
-  "built_at_utc": "2026-11-08T22:29:35+00:00",
+  "report_date": "2026-11-09",
+  "built_at_utc": "2026-11-10T01:46:17+00:00",
   "window": {
     "before_open_session": "2026-11-09",
-    "after_close_session": "2026-11-06"
+    "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "AMG",
-      "company": "Affiliated Managers Group",
-      "session": "BMO",
+      "ticker": "BAP",
+      "company": "Credicorp",
+      "session": "AMC",
       "side": 1,
-      "dir_use": 47.3,
-      "rev_use": 30.7,
-      "mom_aligned": -0.42,
-      "old_weight": 0.4186,
-      "mom_weight": 0.3784,
+      "dir_use": 36.0,
+      "rev_use": 37.7,
+      "mom_aligned": 2.273,
+      "old_weight": 0.0127,
+      "mom_weight": 0.0749,
       "no_data": false
     },
     {
-      "ticker": "B",
-      "company": "Barrick Mining",
+      "ticker": "EMBJ",
+      "company": "Embraer",
       "session": "BMO",
       "side": 1,
-      "dir_use": 39.7,
+      "dir_use": 40.3,
       "rev_use": 37.0,
-      "mom_aligned": 1.321,
-      "old_weight": 0.0516,
-      "mom_weight": 0.0755,
+      "mom_aligned": 5.135,
+      "old_weight": 0.0875,
+      "mom_weight": 0.1063,
       "no_data": false
     },
     {
-      "ticker": "CNH",
-      "company": "CNH Industrial",
-      "session": "BMO",
-      "side": -1,
-      "dir_use": -51.0,
-      "rev_use": 33.0,
-      "mom_aligned": 1.281,
-      "old_weight": 0.4098,
-      "mom_weight": 0.3249,
-      "no_data": false
-    },
-    {
-      "ticker": "GSL",
-      "company": "Global Ship Lease",
+      "ticker": "ONON",
+      "company": "On Holding",
       "session": "BMO",
       "side": 1,
-      "dir_use": 37.3,
-      "rev_use": 32.7,
-      "mom_aligned": -2.741,
-      "old_weight": 0.0614,
-      "mom_weight": 0.1284,
+      "dir_use": 36.0,
+      "rev_use": 39.0,
+      "mom_aligned": 1.132,
+      "old_weight": 0.0055,
+      "mom_weight": 0.0154,
       "no_data": false
     },
     {
-      "ticker": "RBA",
-      "company": "RB Global",
+      "ticker": "OXY",
+      "company": "Occidental Petroleum",
+      "session": "AMC",
+      "side": 1,
+      "dir_use": 42.15,
+      "rev_use": 33.15,
+      "mom_aligned": -1.219,
+      "old_weight": 0.2696,
+      "mom_weight": 0.282,
+      "no_data": false
+    },
+    {
+      "ticker": "SE",
+      "company": "Sea Limited",
       "session": "BMO",
       "side": 1,
-      "dir_use": 39.0,
+      "dir_use": 48.0,
       "rev_use": 36.0,
-      "mom_aligned": -1.858,
-      "old_weight": 0.0585,
-      "mom_weight": 0.0928,
+      "mom_aligned": 6.103,
+      "old_weight": 0.2862,
+      "mom_weight": 0.2221,
+      "no_data": false
+    },
+    {
+      "ticker": "TDG",
+      "company": "TransDigm Group",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 43.7,
+      "rev_use": 38.7,
+      "mom_aligned": 2.779,
+      "old_weight": 0.0623,
+      "mom_weight": 0.059,
+      "no_data": false
+    },
+    {
+      "ticker": "VG",
+      "company": "Venture Global",
+      "session": "BMO",
+      "side": 1,
+      "dir_use": 45.35,
+      "rev_use": 35.15,
+      "mom_aligned": 3.007,
+      "old_weight": 0.2763,
+      "mom_weight": 0.2402,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "CEG",
-      "company": "Constellation Energy",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "FERG",
-      "company": "Ferguson Enterprises",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "HE",
-      "company": "Hawaiian Electric Industries",
+      "ticker": "ACHR",
+      "company": "Archer Aviation",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "KGS",
-      "company": "Kodiak Gas Services",
+      "ticker": "ASTS",
+      "company": "AST SpaceMobile",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "HIMS",
+      "company": "Hims & Hers Health",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "HSAI",
+      "company": "Hesai Group",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "KSPI",
-      "company": "Kaspi.kz",
+      "ticker": "LCID",
+      "company": "Lucid Group",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "ONTO",
+      "company": "Onto Innovation",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "PLUG",
+      "company": "Plug Power",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "QBTS",
+      "company": "D-Wave Quantum",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "MNDY",
-      "company": "monday.com",
+      "ticker": "QLYS",
+      "company": "Qualys",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "RKLB",
+      "company": "Rocket Lab",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "SKYD",
+      "company": "Skydance Corporation",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "TTD",
+      "company": "The Trade Desk",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "TTWO",
+      "company": "Take-Two Interactive",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "WIX",
+      "company": "Wix.com",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "NRG",
-      "company": "NRG Energy",
-      "session": "BMO",
+      "ticker": "ZETA",
+      "company": "Zeta Global",
+      "session": "AMC",
       "reason": "below_threshold"
-    },
-    {
-      "ticker": "ROIV",
-      "company": "Roivant Sciences",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "SGI",
-      "company": "Somnigroup",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "TGTX",
-      "company": "TG Therapeutics",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "KKR",
-      "company": "KKR & Co.",
-      "session": "BMO",
-      "reason": "barrier"
     }
   ]
 }
