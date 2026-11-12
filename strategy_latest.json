@@ -1,178 +1,118 @@
 {
-  "report_date": "2026-11-11",
-  "built_at_utc": "2026-11-12T00:59:51+00:00",
+  "report_date": "2026-11-12",
+  "built_at_utc": "2026-11-12T23:53:10+00:00",
   "window": {
-    "before_open_session": "2026-11-11",
+    "before_open_session": "2026-11-12",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "ASND",
-      "company": "Ascendis Pharma",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 48.0,
-      "rev_use": 39.0,
-      "mom_aligned": 1.597,
-      "old_weight": 0.097,
-      "mom_weight": 0.0757,
-      "no_data": false
-    },
-    {
-      "ticker": "BN",
-      "company": "Brookfield Corporation",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 38.0,
-      "rev_use": 36.0,
-      "mom_aligned": -1.284,
-      "old_weight": 0.0896,
-      "mom_weight": 0.1454,
-      "no_data": false
-    },
-    {
-      "ticker": "ENS",
-      "company": "EnerSys",
+      "ticker": "AMAT",
+      "company": "Applied Materials",
       "session": "AMC",
       "side": 1,
-      "dir_use": 45.0,
-      "rev_use": 35.0,
-      "mom_aligned": -2.196,
-      "old_weight": 0.3731,
-      "mom_weight": 0.33,
-      "no_data": false
-    },
-    {
-      "ticker": "EZPW",
-      "company": "EZCORP",
-      "session": "AMC",
-      "side": 1,
-      "dir_use": 51.0,
+      "dir_use": 49.0,
       "rev_use": 38.0,
-      "mom_aligned": -1.149,
-      "old_weight": 0.2388,
-      "mom_weight": 0.1679,
+      "mom_aligned": 1.637,
+      "old_weight": 0.5,
+      "mom_weight": 0.3668,
       "no_data": false
     },
     {
-      "ticker": "HBM",
-      "company": "Hudbay Minerals",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 44.0,
-      "rev_use": 39.0,
-      "mom_aligned": -3.07,
-      "old_weight": 0.0672,
-      "mom_weight": 0.063,
-      "no_data": false
-    },
-    {
-      "ticker": "TTEK",
-      "company": "Tetra Tech",
+      "ticker": "WSE",
+      "company": "Wise Group plc",
       "session": "AMC",
       "side": 1,
-      "dir_use": 38.0,
-      "rev_use": 34.0,
-      "mom_aligned": -0.697,
-      "old_weight": 0.1343,
-      "mom_weight": 0.2181,
+      "dir_use": 39.7,
+      "rev_use": 35.7,
+      "mom_aligned": 4.525,
+      "old_weight": 0.5,
+      "mom_weight": 0.6332,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "CAE",
-      "company": "CAE",
+      "ticker": "ARWR",
+      "company": "Arrowhead Pharmaceuticals",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CLBT",
-      "company": "Cellebrite DI",
+      "ticker": "CBRS",
+      "company": "Cerebras Systems",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "CSCO",
+      "company": "Cisco Systems",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "DDS",
+      "company": "Dillard's, Inc.",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "FLO",
+      "company": "Flowers Foods",
+      "session": "AMC",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "MFG",
+      "company": "Mizuho Financial Group",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "CTVA",
-      "company": "Corteva",
+      "ticker": "NU",
+      "company": "Nu Holdings",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "ECO",
-      "company": "Okeanis Eco Tankers",
+      "ticker": "QXO",
+      "company": "QXO",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "FNV",
-      "company": "Franco-Nevada",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "FPS",
-      "company": "Forgent Power Solutions",
+      "ticker": "RMIX",
+      "company": "Suncrete, Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "NBIS",
-      "company": "Nebius Group",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "ONDS",
-      "company": "Ondas",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "OPRX",
-      "company": "OptimizeRx",
+      "ticker": "SPCE",
+      "company": "Virgin Galactic Holdings, Inc.",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "OR",
-      "company": "OR Royalties",
+      "ticker": "STNE",
+      "company": "StoneCo",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "PSFE",
-      "company": "Paysafe",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "TNK",
-      "company": "Teekay Tankers",
+      "ticker": "UAMY",
+      "company": "United States Antimony Corporation",
       "session": "AMC",
       "reason": "below_threshold"
     },
     {
-      "ticker": "TWST",
-      "company": "Twist Bioscience",
+      "ticker": "USAS",
+      "company": "Americas Gold and Silver",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "VYLR",
-      "company": "Vylor",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "YETI",
-      "company": "YETI Holdings",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "DGII",
-      "company": "Digi International",
+      "ticker": "DLO",
+      "company": "dLocal",
       "session": "AMC",
       "reason": "barrier"
     }
