@@ -1,120 +1,78 @@
 {
-  "report_date": "2026-11-12",
-  "built_at_utc": "2026-11-12T23:53:10+00:00",
+  "report_date": "2026-11-13",
+  "built_at_utc": "2026-11-13T23:53:04+00:00",
   "window": {
-    "before_open_session": "2026-11-12",
+    "before_open_session": "2026-11-13",
     "after_close_session": null
   },
   "invest": [
     {
-      "ticker": "AMAT",
-      "company": "Applied Materials",
-      "session": "AMC",
+      "ticker": "ARMK",
+      "company": "Aramark",
+      "session": "BMO",
       "side": 1,
-      "dir_use": 49.0,
-      "rev_use": 38.0,
-      "mom_aligned": 1.637,
+      "dir_use": 45.15,
+      "rev_use": 36.15,
+      "mom_aligned": 0.279,
       "old_weight": 0.5,
-      "mom_weight": 0.3668,
-      "no_data": false
-    },
-    {
-      "ticker": "WSE",
-      "company": "Wise Group plc",
-      "session": "AMC",
-      "side": 1,
-      "dir_use": 39.7,
-      "rev_use": 35.7,
-      "mom_aligned": 4.525,
-      "old_weight": 0.5,
-      "mom_weight": 0.6332,
+      "mom_weight": 0.502,
       "no_data": false
     }
   ],
   "screened": [
     {
-      "ticker": "ARWR",
-      "company": "Arrowhead Pharmaceuticals",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "CBRS",
-      "company": "Cerebras Systems",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "CSCO",
-      "company": "Cisco Systems",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "DDS",
-      "company": "Dillard's, Inc.",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "FLO",
-      "company": "Flowers Foods",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "MFG",
-      "company": "Mizuho Financial Group",
+      "ticker": "BEKE",
+      "company": "KE Holdings Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "NU",
-      "company": "Nu Holdings",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "QXO",
-      "company": "QXO",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "RMIX",
-      "company": "Suncrete, Inc.",
+      "ticker": "BIDU",
+      "company": "Baidu, Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "SPCE",
-      "company": "Virgin Galactic Holdings, Inc.",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "STNE",
-      "company": "StoneCo",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "UAMY",
-      "company": "United States Antimony Corporation",
-      "session": "AMC",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "USAS",
-      "company": "Americas Gold and Silver",
+      "ticker": "BLDP",
+      "company": "Ballard Power Systems Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "DLO",
-      "company": "dLocal",
-      "session": "AMC",
-      "reason": "barrier"
+      "ticker": "HTHT",
+      "company": "H World Group Limited",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "IQ",
+      "company": "iQIYI, Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "PERI",
+      "company": "Perion Network",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "POET",
+      "company": "POET Technologies",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "TSN",
+      "company": "Tyson Foods, Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
+    },
+    {
+      "ticker": "XPEV",
+      "company": "XPeng Inc.",
+      "session": "BMO",
+      "reason": "below_threshold"
     }
   ]
 }
