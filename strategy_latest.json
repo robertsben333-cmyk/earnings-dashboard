@@ -1,76 +1,57 @@
 {
-  "report_date": "2026-11-13",
-  "built_at_utc": "2026-11-15T23:10:48+00:00",
+  "report_date": "2026-11-16",
+  "built_at_utc": "2026-11-17T02:06:02+00:00",
   "window": {
-    "before_open_session": "2026-11-13",
+    "before_open_session": "2026-11-16",
     "after_close_session": null
   },
-  "invest": [
-    {
-      "ticker": "ARMK",
-      "company": "Aramark",
-      "session": "BMO",
-      "side": 1,
-      "dir_use": 45.15,
-      "rev_use": 36.15,
-      "mom_aligned": 0.279,
-      "old_weight": 0.5,
-      "mom_weight": 0.502,
-      "no_data": false
-    }
-  ],
+  "invest": [],
   "screened": [
     {
-      "ticker": "BEKE",
-      "company": "KE Holdings Inc.",
+      "ticker": "ACM",
+      "company": "AECOM",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "BIDU",
-      "company": "Baidu, Inc.",
+      "ticker": "AS",
+      "company": "Amer Sports",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "BLDP",
-      "company": "Ballard Power Systems Inc.",
+      "ticker": "DIS",
+      "company": "Walt Disney",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "HTHT",
-      "company": "H World Group Limited",
+      "ticker": "HD",
+      "company": "Home Depot",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "IQ",
-      "company": "iQIYI, Inc.",
+      "ticker": "JD",
+      "company": "JD.com",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "PERI",
-      "company": "Perion Network",
+      "ticker": "POWL",
+      "company": "Powell Industries",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "POET",
-      "company": "POET Technologies",
+      "ticker": "VIK",
+      "company": "Viking Holdings",
       "session": "BMO",
       "reason": "below_threshold"
     },
     {
-      "ticker": "TSN",
-      "company": "Tyson Foods, Inc.",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "XPEV",
-      "company": "XPeng Inc.",
+      "ticker": "XP",
+      "company": "XP Inc.",
       "session": "BMO",
       "reason": "below_threshold"
     }
