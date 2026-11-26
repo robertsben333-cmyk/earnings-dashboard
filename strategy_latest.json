@@ -1,59 +1,10 @@
 {
-  "report_date": "2026-11-16",
-  "built_at_utc": "2026-11-25T02:47:11+00:00",
+  "report_date": "2026-11-25",
+  "built_at_utc": "2026-11-26T01:57:00+00:00",
   "window": {
-    "before_open_session": "2026-11-16",
+    "before_open_session": null,
     "after_close_session": null
   },
   "invest": [],
-  "screened": [
-    {
-      "ticker": "ACM",
-      "company": "AECOM",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "AS",
-      "company": "Amer Sports",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "DIS",
-      "company": "Walt Disney",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "HD",
-      "company": "Home Depot",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "JD",
-      "company": "JD.com",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "POWL",
-      "company": "Powell Industries",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "VIK",
-      "company": "Viking Holdings",
-      "session": "BMO",
-      "reason": "below_threshold"
-    },
-    {
-      "ticker": "XP",
-      "company": "XP Inc.",
-      "session": "BMO",
-      "reason": "below_threshold"
-    }
-  ]
+  "screened": []
 }
