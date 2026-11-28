@@ -1,10 +1,17 @@
 {
-  "report_date": "2026-11-26",
-  "built_at_utc": "2026-11-27T01:56:29+00:00",
+  "report_date": "2026-11-27",
+  "built_at_utc": "2026-11-28T01:40:12+00:00",
   "window": {
     "before_open_session": null,
     "after_close_session": null
   },
   "invest": [],
-  "screened": []
+  "screened": [
+    {
+      "ticker": "CHA",
+      "company": "Chagee Holdings Limited",
+      "session": "BMO",
+      "reason": "below_threshold"
+    }
+  ]
 }
